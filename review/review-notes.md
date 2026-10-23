@@ -102,27 +102,38 @@ Changes required
 
 ---
 
-# Review 1:
+## Review 3: Basic AI Concepts
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
+- **Content creator:** Kevin Surya
+- **Reviewer:** Bienvenindo
+- **Date:** 23/10/2026
 
-## What was checked
+### What Was Checked
 
+- Accuracy of explanations of data, algorithms, models, training, and predictions.
+- Correctness of the AI workflow diagram.
+- Accuracy and clarity of the spam detector worked example.
+- Whether technical terms are explained before they are used.
+- Whether the activity can be completed using the lesson.
+- Whether the answer key is correct.
+- Accuracy and relevance of references.
+- Whether diagrams, file references, and supporting assets work.
 
+### Findings
 
-## Findings
+The section is well-organised and generally suitable for beginners. The definitions are clear, and the spam detector example effectively demonstrates how data, algorithms, models, training, and predictions work together. The workflow diagram presents a logical sequence, and the matching activity and answer key are consistent. The cat-and-dog application activity also includes expected answers.
 
+Minor improvements are recommended. The difference between an algorithm and a model could be explained using a simpler analogy. The term "generalisation" in the answer key could be defined for beginners. References are provided, but citations could be added beside relevant explanations to show which sources support the claims. The exported document and links should also be tested.
 
+### Corrections or Confirmations
 
-## Corrections or confirmations
+The matching activity answer key was checked and found to be consistent with the definitions provided. The spam detector example appropriately explains that predictions are not guaranteed to be correct. The workflow is identified as a simplified machine learning process, which helps avoid implying that every AI system follows the same steps.
 
+Recommended improvements are to clarify the algorithm-versus-model distinction, explain "generalisation," and add relevant citations. The diagram, references, and exported document should be checked in the final submitted copy.
 
+### Status
 
-## Status
-
-
+[Changes required]
 ---
 
 # Review 1:
