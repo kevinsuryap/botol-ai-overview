@@ -30,7 +30,7 @@ until the relevant checks have been performed.
 1. **Definition and introduction:** Accurate and suitable for beginners. It correctly says AI systems perform tasks associated with human intelligence without claiming they think or understand like humans.
 2. **History:** The 1950 Turing paper, the 1956 Dartmouth project, the 1980s expert systems and the 1997 Deep Blue win over Kasparov are all correctly stated. The IBM and Dartmouth pages support 1950, 1956 and 1997. The 1980s expert-systems row is not supported by any listed reference, so it needs one.
 3. **Everyday examples and worked example:** Correct and appropriate. The music-recommendation walkthrough is clear and hedges sensibly ("may identify", "according to its settings").
-4. **Scope:** The lesson stays at introductory level. Generative AI is mentioned only briefly, with no machine learning or neural network detail, so it doesn't overlap with later sections.
+4. **Scope:** The lesson stays at introductory level. Generative AI is mentioned only briefly, with no machine learning or neural network detail, so it doesn't overlap with later section.
 5. **References:**
    - IBM link works and is relevant.
    - Dartmouth link works and supports the 1956 milestone.
