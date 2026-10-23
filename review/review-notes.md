@@ -187,26 +187,36 @@ The lesson addresses important limitations and responsible-use considerations, i
 [Changes Required]
 ---
 
-# Review 1:
+## Review 5: AI Applications
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
+- **Content creator:** Bienvenindo
+- **Reviewer:** Franklin Halim
+- **Date:** [Actual review date]
 
-## What was checked
+### What was checked
 
+- Accuracy of AI application examples in education, healthcare,
+  business, science and engineering, and art and music.
+- Whether examples explain how AI is used in each domain.
+- Correctness of key terminology and comparison tables.
+- Clarity of the scenario about deciding whether AI is the
+  appropriate tool for a task.
+- Whether activities and answer keys match the lesson.
+- Whether benefits and limitations are presented appropriately.
+- Accuracy and relevance of references.
+- Whether diagrams, file references, and supporting assets work.
 
+### Findings
 
-## Findings
+[Record the reviewer's actual findings.]
 
+### Corrections or confirmations
 
+[Describe what was corrected or confirmed.]
 
-## Corrections or confirmations
+### Status
 
-
-
-## Status
-
+[Changes required]
 
 ---
 
