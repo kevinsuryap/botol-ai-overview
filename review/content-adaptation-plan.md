@@ -92,8 +92,3 @@ The Study Guide, PPT Slides, and Video Tutorials will support the same learning 
 | Study Guide | Provide detailed explanations and reference material. | Allows learners to read at their own pace, review definitions, and complete practice questions. |
 | PPT Slides | Summarize important ideas using visual explanations. | Helps learners recognize key concepts, compare ideas, and follow classroom explanations. |
 | Video Tutorial | Demonstrate concepts and practical skills. | Allows learners to observe step-by-step processes and revisit explanations when necessary. |
-
-All three resources will use consistent terminology, examples, and learning objectives. This consistency will help learners move between the resources without encountering conflicting explanations.
-
-The learning activities will also be aligned with the module content. For example, learners will identify AI tools in everyday life, match basic AI terms with their definitions, evaluate generated responses, and develop a checklist for responsible AI use.
-
