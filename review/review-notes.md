@@ -288,25 +288,49 @@ Changes required
 
 ---
 
-# Review 1:
+## Review 8: AI Practice
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
+- **Content creator:** Bryant Ethan
+- **Reviewer:** Bienvenindo
+- **Date:** 23/10/2026
 
-## What was checked
+### What Was Checked
 
+- Whether practical tasks and demonstrations have clear instructions.
+- Whether learners have the information and resources needed to complete each activity.
+- Whether examples demonstrate the intended AI concepts.
+- Whether expected outputs or answer keys are correct, where applicable.
+- Whether activities are suitable for the intended learners.
+- Whether tasks reinforce concepts from earlier sections.
+- Whether any tools, links, datasets, or supporting assets work.
+- Whether privacy, safety, and responsible AI practices are considered where relevant.
+- Accuracy and relevance of references, where provided.
 
+### Findings
 
-## Findings
+- **Task instructions:** The practical activities should provide clear, step-by-step instructions so beginners understand what to do and what results to expect.
+- **Required information and resources:** Each activity should include enough information and resources for learners to complete it without needing unexplained knowledge or missing materials.
+- **AI concepts:** Examples should clearly demonstrate the AI concepts introduced in the earlier sections and avoid confusing ordinary automation with AI.
+- **Expected outputs and answers:** Expected outputs and answer keys should be checked for correctness and consistency with the instructions.
+- **Beginner suitability:** Activities should progress from simpler tasks to more challenging applications, with unfamiliar terms explained where necessary.
+- **Connection to earlier sections:** The practice tasks should reinforce concepts such as AI approaches, basic AI concepts, and generative AI.
+- **Tools and supporting materials:** Any external links, tools, datasets, or supporting files should be tested to ensure learners can access and use them.
+- **Privacy and responsible AI:** Activities involving AI tools should remind learners not to submit sensitive personal information and to verify AI-generated results when appropriate.
+- **References:** Sources should be relevant, accessible, and correctly cited where they are used.
 
+### Corrections or Confirmations
 
+- Recommended making task instructions and expected outputs explicit so beginners can follow each activity independently.
+- Recommended checking all answer keys and expected results against the activity instructions and the concepts taught in earlier sections.
+- Recommended ensuring that activities clearly demonstrate the intended AI concepts and distinguish AI from ordinary rule-based automation where relevant.
+- Recommended testing all external links, tools, datasets, and supporting files before submission.
+- Recommended including appropriate privacy and responsible AI reminders for activities that use AI tools.
+- Recommended checking the accuracy and relevance of references and ensuring that citations follow the required format.
 
-## Corrections or confirmations
+### Status
 
+[Changes required]
 
-
-## Status
 
 
 ---
