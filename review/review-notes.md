@@ -148,27 +148,43 @@ Changes required
 
 ---
 
-# Review 1:
+## Review 4: Generative AI
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
+- **Content creator:** Bhima Warren
+- **Reviewer:** Bryant Ethan
+- **Date:** 23/10/26
 
-## What was checked
+### What was checked
 
+- Accuracy of the definition and explanation of generative AI.
+- Correctness of explanations of training, prompts, and generation.
+- Accuracy of descriptions of large language models and
+  diffusion models.
+- Relevance of the tools and application examples.
+- Clarity and usefulness of the prompt engineering examples.
+- Accuracy of explanations of limitations and responsible use.
+- Whether activities and answer keys match the lesson.
+- Accuracy and relevance of references.
+- Whether diagrams, file references, and supporting assets work.
 
+### Findings
 
-## Findings
+The lesson is well-organized and suitable for beginners. It introduces Generative AI using clear definitions, practical examples, and a logical explanation of how generative models work. The comparison between analytical or predictive AI and Generative AI helps learners understand their different purposes.
 
+The prompt engineering section is particularly useful because it demonstrates how adding context, specifying an output format, and setting boundaries can improve a prompt. The learner activity and suggested answers also support the application of the concepts.
 
+The lesson addresses important limitations and responsible-use considerations, including inaccurate outputs, bias, privacy, copyright, and the need for human review. However, the material should still undergo a final fact-check and reference check before submission.
 
-## Corrections or confirmations
+### Corrections or Confirmations
 
+- Revise the explanation of how language models generate answers to acknowledge that some AI systems can retrieve external information.
+- Update the flowchart so that its decision paths clearly represent the four-question evaluation process.
+- Replace the fictional student's name and ID with generic placeholders in Activity 2.
+- Verify the historical claims against the cited sources, especially the dates of Turing's paper and the Dartmouth proposal and workshop.
 
+### Status
 
-## Status
-
-
+[Changes Required]
 ---
 
 # Review 1:
