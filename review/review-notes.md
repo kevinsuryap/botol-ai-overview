@@ -213,7 +213,7 @@ The lesson addresses important limitations and responsible-use considerations, i
 
 - **Content creator:** Bienvenindo
 - **Reviewer:** Bhima Warren
-- **Date:** [Actual review date]
+- **Date:** 24/10/26
 
 ### What was checked
 
@@ -230,11 +230,16 @@ The lesson addresses important limitations and responsible-use considerations, i
 
 ### Findings
 
-[Record the reviewer's actual findings.]
+The lesson is well-written and easy for beginners to understand. It explains the limitations and risks of AI honestly without exaggerating or causing unnecessary fear. The real-world examples—such as inaccurate AI responses, privacy concerns, and bias—are practical and easy to relate to.
+
+Overall, the content flows logically and is clearly structured. However, a few technical terms and minor details need small adjustments before final submission.
 
 ### Corrections or confirmations
 
-[Describe what was corrected or confirmed.]
+- Simplify the terminology in the data privacy and security section to avoid confusing beginners.
+- Add a brief note explaining that inaccurate AI outputs (hallucinations) occur randomly rather than because the system is broken.
+- Update the reference list to match the latest citation format.
+- Ensure all image links and supporting asset files in the activity section open correctly.
 
 ### Status
 
