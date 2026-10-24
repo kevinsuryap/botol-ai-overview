@@ -136,28 +136,7 @@ Recommended improvements are to clarify the algorithm-versus-model distinction, 
 [Changes required]
 ---
 
-# Review 1:
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
-
-## What was checked
-
-
-
-## Findings
-
-
-
-## Corrections or confirmations
-
-
-
-## Status
-
-
----
 
 ## Review 4: Generative AI
 
@@ -214,6 +193,38 @@ The lesson addresses important limitations and responsible-use considerations, i
   appropriate tool for a task.
 - Whether activities and answer keys match the lesson.
 - Whether benefits and limitations are presented appropriately.
+- Accuracy and relevance of references.
+- Whether diagrams, file references, and supporting assets work.
+
+### Findings
+
+[Record the reviewer's actual findings.]
+
+### Corrections or confirmations
+
+[Describe what was corrected or confirmed.]
+
+### Status
+
+[Changes required]
+
+---
+## Review 6: Limitations and Risks
+
+- **Content creator:** Bienvenindo
+- **Reviewer:** Bhima Warren
+- **Date:** [Actual review date]
+
+### What was checked
+
+- Accuracy of explanations of AI limitations and risks.
+- Correctness of examples involving inaccurate outputs,
+  bias, privacy, security, and overreliance on AI, where covered.
+- Whether risks are explained clearly without exaggeration.
+- Whether learners can distinguish possible risks from
+  guaranteed outcomes.
+- Whether examples are understandable to beginners.
+- Whether activities and answer keys match the lesson.
 - Accuracy and relevance of references.
 - Whether diagrams, file references, and supporting assets work.
 
