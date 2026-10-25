@@ -102,95 +102,148 @@ Changes required
 
 ---
 
-# Review 1:
+## Review 3: Basic AI Concepts
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
+- **Content creator:** Kevin Surya
+- **Reviewer:** Bienvenindo
+- **Date:** 23/10/2026
 
-## What was checked
+### What Was Checked
 
+- Accuracy of explanations of data, algorithms, models, training, and predictions.
+- Correctness of the AI workflow diagram.
+- Accuracy and clarity of the spam detector worked example.
+- Whether technical terms are explained before they are used.
+- Whether the activity can be completed using the lesson.
+- Whether the answer key is correct.
+- Accuracy and relevance of references.
+- Whether diagrams, file references, and supporting assets work.
 
+### Findings
 
-## Findings
+The section is well-organised and generally suitable for beginners. The definitions are clear, and the spam detector example effectively demonstrates how data, algorithms, models, training, and predictions work together. The workflow diagram presents a logical sequence, and the matching activity and answer key are consistent. The cat-and-dog application activity also includes expected answers.
 
+Minor improvements are recommended. The difference between an algorithm and a model could be explained using a simpler analogy. The term "generalisation" in the answer key could be defined for beginners. References are provided, but citations could be added beside relevant explanations to show which sources support the claims. The exported document and links should also be tested.
 
+### Corrections or Confirmations
 
-## Corrections or confirmations
+The matching activity answer key was checked and found to be consistent with the definitions provided. The spam detector example appropriately explains that predictions are not guaranteed to be correct. The workflow is identified as a simplified machine learning process, which helps avoid implying that every AI system follows the same steps.
 
+Recommended improvements are to clarify the algorithm-versus-model distinction, explain "generalisation," and add relevant citations. The diagram, references, and exported document should be checked in the final submitted copy.
 
+### Status
 
-## Status
-
-
+[Changes required]
 ---
 
-# Review 1:
-
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
-
-## What was checked
 
 
+## Review 4: Generative AI
 
-## Findings
+- **Content creator:** Bhima Warren
+- **Reviewer:** Bryant Ethan
+- **Date:** 23/10/26
 
+### What was checked
 
+- Accuracy of the definition and explanation of generative AI.
+- Correctness of explanations of training, prompts, and generation.
+- Accuracy of descriptions of large language models and
+  diffusion models.
+- Relevance of the tools and application examples.
+- Clarity and usefulness of the prompt engineering examples.
+- Accuracy of explanations of limitations and responsible use.
+- Whether activities and answer keys match the lesson.
+- Accuracy and relevance of references.
+- Whether diagrams, file references, and supporting assets work.
 
-## Corrections or confirmations
+### Findings
 
+The lesson is well-organized and suitable for beginners. It introduces Generative AI using clear definitions, practical examples, and a logical explanation of how generative models work. The comparison between analytical or predictive AI and Generative AI helps learners understand their different purposes.
 
+The prompt engineering section is particularly useful because it demonstrates how adding context, specifying an output format, and setting boundaries can improve a prompt. The learner activity and suggested answers also support the application of the concepts.
 
-## Status
+The lesson addresses important limitations and responsible-use considerations, including inaccurate outputs, bias, privacy, copyright, and the need for human review. However, the material should still undergo a final fact-check and reference check before submission.
 
+### Corrections or Confirmations
 
+- Revise the explanation of how language models generate answers to acknowledge that some AI systems can retrieve external information.
+- Update the flowchart so that its decision paths clearly represent the four-question evaluation process.
+- Replace the fictional student's name and ID with generic placeholders in Activity 2.
+- Verify the historical claims against the cited sources, especially the dates of Turing's paper and the Dartmouth proposal and workshop.
+
+### Status
+
+[Changes Required]
 ---
 
-# Review 1:
+## Review 5: AI Applications
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
+- **Content creator:** Bienvenindo
+- **Reviewer:** Franklin Halim
+- **Date:** [Actual review date]
 
-## What was checked
+### What was checked
 
+- Accuracy of AI application examples in education, healthcare,
+  business, science and engineering, and art and music.
+- Whether examples explain how AI is used in each domain.
+- Correctness of key terminology and comparison tables.
+- Clarity of the scenario about deciding whether AI is the
+  appropriate tool for a task.
+- Whether activities and answer keys match the lesson.
+- Whether benefits and limitations are presented appropriately.
+- Accuracy and relevance of references.
+- Whether diagrams, file references, and supporting assets work.
 
+### Findings
 
-## Findings
+[Record the reviewer's actual findings.]
 
+### Corrections or confirmations
 
+[Describe what was corrected or confirmed.]
 
-## Corrections or confirmations
+### Status
 
-
-
-## Status
-
+[Changes required]
 
 ---
+## Review 6: Limitations and Risks
 
-# Review 1:
+- **Content creator:** Bienvenindo
+- **Reviewer:** Bhima Warren
+- **Date:** 24/10/26
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
+### What was checked
 
-## What was checked
+- Accuracy of explanations of AI limitations and risks.
+- Correctness of examples involving inaccurate outputs,
+  bias, privacy, security, and overreliance on AI, where covered.
+- Whether risks are explained clearly without exaggeration.
+- Whether learners can distinguish possible risks from
+  guaranteed outcomes.
+- Whether examples are understandable to beginners.
+- Whether activities and answer keys match the lesson.
+- Accuracy and relevance of references.
+- Whether diagrams, file references, and supporting assets work.
 
+### Findings
 
+The lesson is well-written and easy for beginners to understand. It explains the limitations and risks of AI honestly without exaggerating or causing unnecessary fear. The real-world examples—such as inaccurate AI responses, privacy concerns, and bias—are practical and easy to relate to.
 
-## Findings
+Overall, the content flows logically and is clearly structured. However, a few technical terms and minor details need small adjustments before final submission.
 
+### Corrections or confirmations
 
+- Simplify the terminology in the data privacy and security section to avoid confusing beginners.
+- Add a brief note explaining that inaccurate AI outputs (hallucinations) occur randomly rather than because the system is broken.
+- Update the reference list to match the latest citation format.
+- Ensure all image links and supporting asset files in the activity section open correctly.
 
-## Corrections or confirmations
+### Status
 
-
-
-## Status
-
+[Changes required]
 
 ---
 
@@ -251,25 +304,49 @@ Changes required
 
 ---
 
-# Review 1:
+## Review 8: AI Practice
 
-- **Content creator:** 
-- **Reviewer:** 
-- **Date:** 
+- **Content creator:** Bryant Ethan
+- **Reviewer:** Bienvenindo
+- **Date:** 23/10/2026
 
-## What was checked
+### What Was Checked
 
+- Whether practical tasks and demonstrations have clear instructions.
+- Whether learners have the information and resources needed to complete each activity.
+- Whether examples demonstrate the intended AI concepts.
+- Whether expected outputs or answer keys are correct, where applicable.
+- Whether activities are suitable for the intended learners.
+- Whether tasks reinforce concepts from earlier sections.
+- Whether any tools, links, datasets, or supporting assets work.
+- Whether privacy, safety, and responsible AI practices are considered where relevant.
+- Accuracy and relevance of references, where provided.
 
+### Findings
 
-## Findings
+- **Task instructions:** The practical activities should provide clear, step-by-step instructions so beginners understand what to do and what results to expect.
+- **Required information and resources:** Each activity should include enough information and resources for learners to complete it without needing unexplained knowledge or missing materials.
+- **AI concepts:** Examples should clearly demonstrate the AI concepts introduced in the earlier sections and avoid confusing ordinary automation with AI.
+- **Expected outputs and answers:** Expected outputs and answer keys should be checked for correctness and consistency with the instructions.
+- **Beginner suitability:** Activities should progress from simpler tasks to more challenging applications, with unfamiliar terms explained where necessary.
+- **Connection to earlier sections:** The practice tasks should reinforce concepts such as AI approaches, basic AI concepts, and generative AI.
+- **Tools and supporting materials:** Any external links, tools, datasets, or supporting files should be tested to ensure learners can access and use them.
+- **Privacy and responsible AI:** Activities involving AI tools should remind learners not to submit sensitive personal information and to verify AI-generated results when appropriate.
+- **References:** Sources should be relevant, accessible, and correctly cited where they are used.
 
+### Corrections or Confirmations
 
+- Recommended making task instructions and expected outputs explicit so beginners can follow each activity independently.
+- Recommended checking all answer keys and expected results against the activity instructions and the concepts taught in earlier sections.
+- Recommended ensuring that activities clearly demonstrate the intended AI concepts and distinguish AI from ordinary rule-based automation where relevant.
+- Recommended testing all external links, tools, datasets, and supporting files before submission.
+- Recommended including appropriate privacy and responsible AI reminders for activities that use AI tools.
+- Recommended checking the accuracy and relevance of references and ensuring that citations follow the required format.
 
-## Corrections or confirmations
+### Status
 
+[Changes required]
 
-
-## Status
 
 
 ---
