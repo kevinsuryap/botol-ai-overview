@@ -57,14 +57,14 @@ The module consists of eight sections arranged in a logical sequence.
 
 | Section | File | Main Topics and Subtopics | Planned Learning Activities | Status |
 |---|---|---|---|---|
-| 1. Introduction to AI | `01-introduction-to-ai.md` | Definition of AI, brief history, everyday examples, importance of AI | Identify AI tools used in daily life | **Outline only** |
-| 2. Basic AI Concepts | `02-basic-ai-concepts.md` | Data, algorithms, models, training, predictions | Match AI terms with their definitions | **Outline only** |
-| 3. Different Approaches to AI | `03-ai-approaches.md` | Symbolic AI, connectionist AI, behavior-based AI | Compare the approaches using simple examples | **Outline only** |
-| 4. Generative AI | `04-generative-ai.md` | Text and image generation, LLMs, prompts | Try a prompt and evaluate the generated response | **Outline only** |
-| 5. Applications of AI | `05-ai-applications.md` | Education, healthcare, business, science, creativity | Match AI applications to real-world problems | **Outline only** |
-| 6. Limitations and Risks of AI | `06-ai-limitations-and-risks.md` | Errors, hallucinations, bias, privacy, reliability | Identify problems in a flawed AI answer | **Outline only** |
-| 7. Responsible Use of AI | `07-responsible-ai.md` | Verification, privacy protection, transparency, academic integrity, human judgment | Create a responsible AI-use checklist | **Outline only** |
-| 8. Using What We Learned About AI | `08-ai-practice.md` | Review of key concepts and application to everyday situations | Match terms, evaluate an AI answer, and solve practical scenarios | **Outline only** |
+| 1. Introduction to AI | `01-introduction-to-ai.md` | Definition of AI, brief history, everyday examples, importance of AI | Identify AI tools used in daily life | Needs revision |
+| 2. Basic AI Concepts | `03-basic-ai-concepts.md` | Data, algorithms, models, training, predictions | Match AI terms with their definitions | Drafted |
+| 3. Different Approaches to AI | `02-ai-approaches.md` | Symbolic AI, connectionist AI, behavior-based AI | Compare the approaches using simple examples | Drafted |
+| 4. Generative AI | `04-generative-ai.md` | Text and image generation, LLMs, prompts | Try a prompt and evaluate the generated response | Drafted |
+| 5. Applications of AI | `05-ai-applications.md` | Education, healthcare, business, science, creativity | Match AI applications to real-world problems | Drafted |
+| 6. Limitations and Risks of AI | `06-ai-limitations-and-risks.md` | Errors, hallucinations, bias, privacy, reliability | Identify problems in a flawed AI answer | Drafted |
+| 7. Responsible Use of AI | `07-responsible-ai.md` | Verification, privacy protection, transparency, academic integrity, human judgment | Create a responsible AI-use checklist | Drafted |
+| 8. Using What We Learned About AI | `08-ai-practice.md` | Review of key concepts and application to everyday situations | Match terms, evaluate an AI answer, and solve practical scenarios | Drafted |
 
 **Status definitions**
 
@@ -103,7 +103,7 @@ Statuses should be updated according to the actual progress of each section.
 
 ### Section 2: Basic AI Concepts
 
-**File:** `02-basic-ai-concepts.md`
+**File:** `03-basic-ai-concepts.md`
 
 **Purpose:** Explain the basic concepts needed to understand how AI systems operate.
 
@@ -125,7 +125,7 @@ Statuses should be updated according to the actual progress of each section.
 
 ### Section 3: Different Approaches to AI
 
-**File:** `03-ai-approaches.md`
+**File:** `02-ai-approaches.md`
 
 **Purpose:** Introduce different approaches researchers have used to build AI systems.
 
