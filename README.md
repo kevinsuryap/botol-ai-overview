@@ -8,7 +8,7 @@ This project helps beginners build a clear first picture of artificial intellige
 
 - Explain in plain language what AI is, with everyday examples;
 - Describe how AI relates to neighbouring ideas such as machine learning;
-- [add or adjust goals after the outline is agreed, e.g. explain what an intelligent agent is];
+- - Explain the basic idea of an intelligent agent and describe how it interacts with its environment.
 - Recognise that AI systems can make mistakes, and describe one way to check them.
 
 We write and review the explanations, examples, activities, and references in Markdown first. The Study Guide, slides, and videos are then produced from this checked content, so all three teach the same ideas. When an explanation changes, every affected deliverable is updated.
@@ -67,10 +67,25 @@ Everyone studies the module, writes content, reviews teammates' work, and can ex
 - Another member reviews every pull request before it is merged.
 - Significant AI assistance is recorded, with how the output was checked.
 
-## Current progress
+## Current Progress
 
-*Last updated: [date]*
+Last updated: [10/25/2026]
 
-- **Done:** repository created and shared with members; folder structure and README set up; [other completed items].
-- **In progress:** [e.g. module outline in `content/00-outline.md`; first developed topic; task list].
-- **Remaining:** [e.g. content V1.0, peer review, Stage 1 report, study-guide / slide / video plans].
+### Completed
+- GitHub repository created and shared with team members.
+- Initial repository structure and README established.
+- Initial versions of the AI Overview Markdown learning materials created.
+- Peer-review notes and a content adaptation plan prepared.
+
+### In Progress
+- Resolving inconsistencies between the module outline and actual filenames.
+- Improving lesson accuracy, clarity, references, and learning activities.
+- Completing required project documentation and AI-use records.
+- Completing peer reviews and documenting corrections.
+- Preparing Repository Evidence and the Stage 1 submission report.
+
+### Remaining
+- Final verification of all learning materials and references.
+- Completion of outstanding peer reviews and documentation.
+- Preparation of the Learning Content PDF.
+- Assembly and validation of the final Stage 1 submission ZIP.
