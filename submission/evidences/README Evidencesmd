@@ -1,0 +1,12 @@
+# Evidence Screenshots
+
+Screenshots taken on 23 October 2026 from GitHub. Full captions and explanations are in the Stage 1 submission report.
+
+| File | Shows |
+| --- | --- |
+| `01-repository-overview.png` | Repository home page: folders, 50 commits, 5 contributors visible |
+| `02-readme-on-github.png` | README as displayed |
+| `03-commit-history.png` | Commit and merged pull request history with authors |
+| `04-contributors-chart.png` | Contributors page: commits and lines per member |
+| `05-pull-request-review.png` | Pull request with review comments (Ethan) and approval (Bryant) |
+| `06-commit-diff-review-notes.png` | A change view for `review/review-notes.md` |

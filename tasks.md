@@ -12,34 +12,34 @@ This document tracks the development, review, documentation, and submission task
 
 ## 2. Learning Content
 
-- [ ] Review and revise the Introduction to AI lesson.
-- [ ] Check the accuracy and clarity of all eight lessons.
-- [ ] Verify that lesson activities match their answer keys.
-- [ ] Verify factual claims and references.
-- [ ] Add or verify relevant learning visuals.
-- [ ] Remove internal development notes and unfinished placeholders from learner-facing content.
+- [x] Review and revise the Introduction to AI lesson.
+- [x] Check the accuracy and clarity of all eight lessons.
+- [x] Verify that lesson activities match their answer keys.
+- [x] Verify factual claims and references.
+- [x] Add or verify relevant learning visuals.
+- [x] Remove internal development notes and unfinished placeholders from learner-facing content.
 
 ## 3. Peer Review
 
-- [ ] Complete the assigned peer reviews.
-- [ ] Record specific feedback on accuracy, clarity, and completeness.
-- [ ] Resolve peer-review comments or document any remaining issues.
-- [ ] Update lesson statuses based on the actual review outcomes.
+- [x] Complete the assigned peer reviews.
+- [x] Record specific feedback on accuracy, clarity, and completeness.
+- [x] Resolve peer-review comments or document any remaining issues.
+- [x] Update lesson statuses based on the actual review outcomes.
 
 ## 4. Supporting Documentation
 
-- [ ] Complete the required project documentation.
-- [ ] Add the sources actually used to `references/sources.md`.
-- [ ] Complete the AI-use records required by the assignment.
-- [ ] Record genuine evidence of collaboration and peer review.
+- [x] Complete the required project documentation.
+- [x] Add the sources actually used to `references/sources.md`.
+- [x] Complete the AI-use records required by the assignment.
+- [x] Record genuine evidence of collaboration and peer review.
 
 ## 5. Submission Preparation
 
-- [ ] Prepare the Repository Evidence section.
-- [ ] Complete the submission report.
-- [ ] Generate and inspect the learning-content PDF.
-- [ ] Assemble the required submission ZIP.
-- [ ] Extract the ZIP into a separate folder and verify its contents.
+- [x] Prepare the Repository Evidence section.
+- [x] Complete the submission report.
+- [x] Generate and inspect the learning-content PDF.
+- [x] Assemble the required submission ZIP.
+- [x] Extract the ZIP into a separate folder and verify its contents.
 
 ---
 
