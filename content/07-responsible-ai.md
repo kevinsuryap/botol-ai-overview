@@ -231,13 +231,3 @@ Write a short response to these questions:
 3. National Institute of Standards and Technology (NIST). (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0).*
    https://doi.org/10.6028/NIST.AI.100-1
 
-## 7.17 Development Status
-
-| Component | Status | Notes |
-|---|---|---|
-| Learning objectives | Drafted — review required | Confirm alignment with module outcomes. |
-| Main content | Drafted — review required | Review clarity, accuracy, and suitability for the intended learners. |
-| Learner activity | Drafted — review required | Check that the scenario and questions are clear. |
-| Answer key | Drafted — review required | Confirm that answers match the activity. |
-| References | Added — citation format to be checked | Confirm reference details and formatting. |
-| Final review | Pending | Complete team review before marking this section as checked. |

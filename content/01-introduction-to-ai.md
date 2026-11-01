@@ -277,21 +277,3 @@ Understanding what AI is and where it is used provides a foundation for learning
 These resources can help learners explore the topic further and allow the team to verify factual information before publication.
 
 ---
-
-## 10. Development Status
-
-**Current status: Drafted — review required.**
-
-| Component | Status |
-|---|---|
-| Learning objectives | Drafted |
-| Definition of AI | Drafted |
-| Historical overview | Drafted; facts should be verified |
-| Everyday applications | Drafted |
-| Worked example | Drafted |
-| Learner activity and answer key | Drafted |
-| Discussion questions | Drafted |
-| References | Identified; source verification pending |
-| Final proofreading | Not yet completed |
-
-Before marking this section as **checked**, the team should verify the historical details, confirm that the references support the material, and review the activities for clarity and suitability for beginner learners.

@@ -322,15 +322,4 @@ The activity demonstrates that an effective prompt is only one part of using Gen
 
 These resources provide further information about prompting and AI. Follow your course's citation requirements when incorporating information from external sources.
 
-## 12. Development Status
 
-| Item | Status |
-|---|---|
-| Learning objectives and prerequisites | Drafted — review required |
-| Generative AI concepts and working process | Drafted — review required |
-| Tools and real-world applications | Drafted — review required |
-| Prompt engineering examples | Drafted — review required |
-| Learner activity and suggested answers | Drafted — review required |
-| Responsible-use guidance | Drafted — review required |
-| References and citations | Added — citation format to be checked |
-| Final review | Pending |
