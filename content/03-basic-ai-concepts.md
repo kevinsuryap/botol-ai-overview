@@ -1,4 +1,4 @@
-    # Basic AI Concepts
+# Basic AI Concepts
 
 ## 1. Overview
 
@@ -15,7 +15,7 @@ This section introduces the fundamental concepts behind AI through simple explan
 By the end of this section, learners should be able to:
 
 1. Define data, algorithms, models, training, and predictions.
-2. Explain how these concepts relate to one another in a basic AI system.
+​2. Explain how these concepts relate to one another in a basic AI system.
 3. Describe how an AI model can learn patterns from data.
 4. Identify the main stages of a simple AI workflow.
 5. Match basic AI terms with their correct definitions.
@@ -87,7 +87,7 @@ Imagine that you want to organise students according to their test scores.
 A simple algorithm could follow these steps:
 
 1. Receive the students' test scores.
-2. Compare the scores.
+​2. Compare the scores.
 3. Arrange the scores from highest to lowest.
 4. Display the organised results.
 
@@ -97,7 +97,10 @@ An AI learning algorithm can be more complex because it may adjust a model's int
 
 ### 3.3 Algorithm vs. Model
 
-An algorithm and a model are related, but they are not the same.
+An algorithm and a model are closely related, but they represent distinct components in machine learning:
+
+- **Algorithm:** The procedure, recipe, or learning method (such as linear regression or neural network training rules) used to process data and update parameters.
+- **Model:** The resulting artifact or system structure produced after the algorithm has processed the training data.
 
 | Concept | Meaning | Example |
 |---|---|---|
@@ -161,7 +164,13 @@ For example, a spam detection model may be trained using emails labelled as spam
 
 Training is not the same as manually programming every possible answer. Instead, the learning process helps the model identify patterns in the examples it receives.
 
-### 5.2 What Is a Prediction?
+### 5.2 What Is Generalisation?
+
+**Generalisation** refers to a model's ability to successfully adapt and perform accurately on new, unseen data that was not part of its training set. 
+
+A model that generalises well can look past the specific quirks of its training examples and capture underlying patterns, ensuring reliable performance in real-world scenarios. Conversely, a model that fails to generalise may have simply memorised the training data (overfitting) and will struggle when presented with unfamiliar inputs.
+
+### 5.3 What Is a Prediction?
 
 A **prediction** is an output produced by a model when it processes an input.
 
@@ -176,7 +185,7 @@ Examples include:
 
 Predictions can be incorrect. Therefore, the output of an AI model should not automatically be treated as a confirmed fact.
 
-### 5.3 Training vs. Prediction
+### 5.4 Training vs. Prediction
 
 | Training | Prediction |
 |---|---|
@@ -199,7 +208,7 @@ The concepts introduced in this section are connected. In a typical supervised m
         Collect Data
              |
              v
-       Prepare Data
+        Prepare Data
              |
              v
     Choose a Learning Method
@@ -208,7 +217,7 @@ The concepts introduced in this section are connected. In a typical supervised m
      Train the Model
              |
              v
-      Evaluate the Model
+     Evaluate the Model
              |
              v
      Use the Trained Model
@@ -220,7 +229,7 @@ The concepts introduced in this section are connected. In a typical supervised m
 **How to read the diagram:**
 
 1. **Collect data:** Gather examples relevant to the task.
-2. **Prepare data:** Organise the data and correct problems where possible.
+​2. **Prepare data:** Organise the data and correct problems where possible.
 3. **Choose a learning method:** Select an appropriate algorithm.
 4. **Train the model:** Use the training data to develop or adjust the model.
 5. **Evaluate the model:** Test how well it performs using suitable data.
@@ -337,7 +346,7 @@ A student wants to create a simple AI system that predicts whether a photograph 
 Answer the following questions:
 
 1. What type of data could the student collect?
-2. What is the purpose of the algorithm?
+​2. What is the purpose of the algorithm?
 3. What happens during training?
 4. What would the model's prediction look like when a new photograph is provided?
 5. Why should the student test the model using photographs that were not used during training?
@@ -386,6 +395,7 @@ Testing with separate photographs helps determine whether the model can recognis
 - **Algorithms** describe methods for performing tasks or learning from data.
 - **Models** process inputs and produce outputs.
 - **Training** develops or adjusts a machine learning model.
+- **Generalisation** ensures models can apply learned patterns successfully to unseen, real-world data.
 - **Predictions** are outputs that a model produces for particular inputs.
 - These concepts are connected in many machine learning workflows.
 - AI predictions can be wrong and should be evaluated using appropriate evidence and testing.
@@ -398,13 +408,15 @@ The most important idea is that an AI system does not automatically produce corr
 
 The following resources provide further explanations of AI and machine learning concepts.
 
-1. Google for Developers. *Machine Learning Crash Course.*
+1. Google for Developers. *Machine Learning Crash Course.*  
    https://developers.google.com/machine-learning/crash-course
 
-2. IBM. *What Is Artificial Intelligence (AI)?*
+2. IBM. *What Is Artificial Intelligence (AI)?*  
    https://www.ibm.com/think/topics/artificial-intelligence
 
-3. National Institute of Standards and Technology (NIST). *Artificial Intelligence.*
+3. National Institute of Standards and Technology (NIST). *Artificial Intelligence.*  
    https://www.nist.gov/artificial-intelligence
+
+4. Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson. (Provides foundational academic definitions for algorithms, models, and generalisation in machine learning).
 
 These resources should be consulted when reviewing the material and developing further examples. The explanations in this section have been simplified for beginner learners.
