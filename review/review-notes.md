@@ -376,6 +376,6 @@ Changes required
 | Generative AI | Bryant Ethan | Changes required |
 | AI Applications | Franklin Halim | Pending |
 | Limitations and Risks | Bhima Warren | Pending |
-| Responsible AI | Kevin Surya | Changes required |
+| Responsible AI | Kevin Surya | Revised |
 | AI Practice | Bienvenindo | Changes required |
 
