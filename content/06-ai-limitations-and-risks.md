@@ -1,4 +1,3 @@
-
 # Section 6: Limitations and Risks of Artificial Intelligence
 
 ## 1. Learning Objectives
@@ -24,6 +23,8 @@ An **AI risk** is the possibility that using an AI system could lead to a negati
 A **limitation** is a weakness or boundary that affects what a system can do reliably.
 
 Understanding these risks helps people decide when AI is appropriate, how its results should be checked, and when human expertise is necessary.
+
+AI risk management involves identifying, evaluating, and reducing potential problems throughout the development and use of AI systems (National Institute of Standards and Technology [NIST], 2023).
 
 ## 3. Incorrect or Misleading Outputs
 
@@ -68,6 +69,10 @@ Hallucinations are particularly important in generative AI, which creates text, 
 For example, a chatbot might invent a research paper title, provide a reference that does not exist, or give an incorrect explanation of a mathematical formula.
 
 The term does not mean that the system is experiencing a human mental experience. It describes a type of unreliable AI output.
+
+AI hallucinations can occur during normal operation and do not necessarily mean that the system is broken. They may result from limitations in the model, incomplete information, or the way the system generates responses. Their occurrence can depend on the question, available context, and system design.
+
+Therefore, users should verify important information even when an AI system appears to be working normally.
 
 ### 4.2 Worked Example: Checking an AI-Generated Reference
 
@@ -144,6 +149,10 @@ These measures can reduce risk but cannot guarantee that every form of bias will
 
 **Privacy** concerns how information about people is collected, used, stored, and shared.
 
+**Data protection** refers to the rules and practices used to keep personal information safe and prevent it from being accessed, used, or shared improperly.
+
+For example, a student's name, student number, and grades should only be shared with people or services that are authorized to access them.
+
 Some AI tools process user inputs or retain information according to their specific settings and policies. Users should not assume that every tool handles information in the same way.
 
 ### 6.2 Example: Uploading a Student Record
@@ -158,7 +167,6 @@ Possible risks include:
 - Violating school rules or applicable privacy requirements.
 
 ### 6.3 Safer Practices
-
 Before providing information to an AI tool:
 
 1. Check whether you have permission to use the information.
@@ -168,6 +176,10 @@ Before providing information to an AI tool:
 5. Follow applicable school and organizational rules.
 
 Removing names does not always make data anonymous. Other details, especially when combined, may still identify a person.
+
+For example, a combination of a student's class, age, academic results, and school activities could make it possible to identify them even if their name is removed.
+
+Guidance on generative AI in education also emphasizes the importance of protecting personal information and using AI responsibly (Miao & Holmes, 2023).
 
 ## 7. Reliability and Other Limitations
 
@@ -180,6 +192,8 @@ Removing names does not always make data anonymous. Other details, especially wh
 These concepts are related but different. A system might produce accurate results in some situations but perform inconsistently in others.
 
 For example, a navigation system may estimate travel times reasonably well under normal conditions but perform poorly when a road is suddenly closed.
+
+Accuracy focuses on whether a result is correct, while reliability focuses on whether the system consistently performs as expected.
 
 ### 7.2 Context and Changing Information
 
@@ -208,33 +222,37 @@ When a result is important, users should understand what the system is intended 
 
 Examples include copying an AI-generated essay without checking its claims, accepting an automated recommendation without considering relevant evidence, or assuming that an AI tool must be correct because it is advanced.
 
+Overreliance can cause people to overlook errors, ignore important information, or make decisions without sufficient evidence.
+
 A responsible user treats AI as a tool that may help with a task, not as an automatic replacement for knowledge, judgment, or accountability.
 
 ## 8. A Visual Framework for Verifying AI Information
 
 Use the following process before relying on an important AI-generated answer.
 
+**Verification process:**
+
 ```text
-        AI produces an answer
-                 |
-                 v
-       Identify important claims
-                 |
-                 v
-      Check reliable, relevant sources
-                 |
-                 v
-       Does the evidence support it?
-            /             \
-          Yes              No
-           |                |
-           v                v
-  Check the context     Investigate further
-  and source quality    and correct or reject
-           |                |
-           v                v
-  Use with appropriate  Do not present the
-  confidence and care   claim as established fact
+          AI produces an answer
+                   |
+                   v
+         Identify important claims
+                   |
+                   v
+       Check reliable, relevant sources
+                   |
+                   v
+        Does the evidence support it?
+              /           \
+            Yes             No
+             |               |
+             v               v
+      Check the context   Investigate further
+      and source quality  and correct or reject
+             |               |
+             v               v
+      Use with appropriate  Do not present the
+      confidence and care   claim as established fact
 ```
 
 Verification should match the possible consequences. A brainstorming suggestion may need a different level of checking from information used in healthcare, financial decisions, or safety-critical engineering.
@@ -290,6 +308,8 @@ Use this table to evaluate common AI risks.
 
 The appropriate response depends on both the likelihood of a problem and the seriousness of its possible consequences.
 
+A risk assessment should consider not only whether a problem can happen, but also how serious its consequences could be.
+
 ## 11. Learner Activity A: Identify the Risk
 
 For each situation, identify the main risk. Use the following categories:
@@ -335,33 +355,59 @@ Evaluate this response.
 
 ### Activity A
 
-1. B — AI hallucination. The system has presented an invented reference as though it were real.
-2. C — Bias or unfairness. The results may systematically disadvantage a group.
-3. D — Privacy risk. Identifiable and potentially confidential information has been shared with a tool that has not been approved for this purpose.
-4. A — Incorrect or misleading output. The explanation contains false information.
-5. E — Reliability or overreliance. The user trusts a prediction without considering changing conditions.
+1. **B — AI hallucination.** The system has presented an invented reference as though it were real.
+
+2. **C — Bias or unfairness.** The results may systematically disadvantage a group.
+
+3. **D — Privacy risk.** Identifiable and potentially confidential information has been shared with a tool that has not been approved for this purpose.
+
+4. **A — Incorrect or misleading output.** The explanation contains false information.
+
+5. **E — Reliability or overreliance.** The user depends too heavily on an AI prediction and assumes it will remain correct despite changing conditions. The prediction's reliability may also decrease when the conditions change.
 
 6. Accuracy concerns how close a result is to the correct value. Reliability concerns whether a system performs consistently as expected under specified conditions.
-7. Example answers: Compare the claim with a reliable source; open and read the cited source; check the date and author; consult an appropriate expert.
+
+7. Example answers:
+   - Compare the claim with a reliable source.
+   - Open and read the cited source.
+   - Check the date and author.
+   - Consult an appropriate expert.
+
 8. Other details may identify the person, especially when combined with other information.
-9. Example answers: Use representative data, test outcomes across groups, review system criteria, and provide human oversight.
+
+9. Example answers:
+   - Use representative data.
+   - Test outcomes across groups.
+   - Review system criteria.
+   - Provide human oversight.
+
 10. AI can make mistakes or miss important context. Human review helps evaluate the evidence, recognize limitations, and take responsibility for decisions.
 
 ### Activity B
 
 1. The chatbot incorrectly claims that AI answers do not need to be checked.
+
 2. AI systems can produce incorrect or unsupported information. Their outputs are not guaranteed to be correct.
-3. Example response: "AI can help you find ideas and understand information, but you should verify factual claims against reliable sources and follow your institution's rules for using AI."
-4. Example answers: Verify factual claims and references; check whether the source supports the claim; confirm dates and details; review the course's AI-use policy.
+
+3. Example response:
+
+   "AI can help you find ideas and understand information, but you should verify factual claims against reliable sources and follow your institution's rules for using AI."
+
+4. Example answers:
+   - Verify factual claims and references.
+   - Check whether the source supports the claim.
+   - Confirm dates and details.
+   - Review the course's AI-use policy.
 
 Other answers are acceptable if they are accurate and supported by clear reasoning.
 
 ## 14. Key Takeaways
 
 - AI systems can produce incorrect, misleading, or unsupported information.
-- Hallucinations may include invented facts or references.
+- Hallucinations may include invented facts or references and can occur during normal system operation.
 - Bias can result from data, design choices, or inappropriate use.
 - Personal information should be handled carefully when using AI tools.
+- Privacy concerns how personal information is handled, while data protection focuses on keeping that information safe.
 - Accuracy and reliability are related but distinct.
 - AI performance may vary across tasks and conditions.
 - Important information should be checked using reliable evidence.
@@ -369,16 +415,12 @@ Other answers are acceptable if they are accurate and supported by clear reasoni
 
 ## 15. References
 
-1. National Institute of Standards and Technology (NIST). (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0).*
-   https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10
+1. Tabassi, E. (2023). *Artificial intelligence risk management framework (AI RMF 1.0)* (NIST AI 100-1). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.AI.100-1
 
-2. National Institute of Standards and Technology (NIST). *AI Risk Management Framework FAQs.*
-   https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-faqs
+2. National Institute of Standards and Technology. (n.d.). *AI Risk Management Framework FAQs.* https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-faqs
 
-3. UNESCO. (2023). *Guidance for Generative AI in Education and Research.*
-   https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
+3. Miao, F., & Holmes, W. (2023). *Guidance for generative AI in education and research.* UNESCO. https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
 
-4. World Health Organization. (2021). *Ethics and Governance of Artificial Intelligence for Health.*
-   https://www.who.int/publications/i/item/9789240029200
+4. World Health Organization. (2021). *Ethics and governance of artificial intelligence for health: WHO guidance.* https://www.who.int/publications/i/item/9789240029200
 
-**Source-use note:** These sources provide background on AI risk management, reliability, fairness, privacy, and responsible educational use. The fictional scenarios, sample chatbot response, and learner activities in this section are original teaching examples created for this learning module.
+**Source-use note:** These sources provide background on AI risk management, reliability, fairness, privacy, and responsible educational use. The fictional scenarios, sample chatbot response, learner activities, and worked examples in this section are original teaching examples created for this learning module.
