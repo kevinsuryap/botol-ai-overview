@@ -1,4 +1,3 @@
-
 # Section 5: Applications of Artificial Intelligence
 
 ## 1. Learning Objectives
@@ -20,6 +19,7 @@ AI is useful when people need to process large amounts of information, identify 
 An **AI application** is a practical use of an AI system to perform a task or help solve a problem.
 
 For example:
+
 - A learning platform recommends practice questions to a student.
 - A healthcare system highlights a pattern in a medical image.
 - A business uses AI to estimate future product demand.
@@ -66,9 +66,11 @@ The student answers these questions:
 - Question 2: Solve \(2x = 12\). Answer: \(x = 6\).
 - Question 3: Solve \(x - 4 = 7\). Answer: \(x = 3\).
 
-The first two answers are correct, but the third should be \(x = 11\).
+The first two answers are correct, but the third answer is intentionally incorrect. The correct answer is \(x = 11\).
 
-A learning system may detect that the student is making mistakes with subtraction equations and recommend additional practice.
+This incorrect answer is included as an example of a student's possible calculation mistake. It is not an error made by the AI system.
+
+A learning system may detect that the student has answered the third question incorrectly and recommend additional practice.
 
 Step by step:
 
@@ -83,18 +85,20 @@ The system helps identify where the student may need more practice. However, one
 ### 4.3 Benefits and Limitations
 
 **Benefits**
+
 - Provides additional practice.
 - Can offer quick feedback.
 - Supports different learning needs.
 - Helps teachers identify areas where students may need support.
 
 **Limitations**
+
 - AI explanations may be incorrect.
 - Students may become too dependent on automated answers.
 - Personal learning data needs protection.
 - AI feedback may not fully understand a student's circumstances.
 
-AI should support learning rather than replace independent thinking or teachers.
+AI should support learning rather than replace independent thinking or teachers (Miao & Holmes, 2023).
 
 ## 5. AI in Healthcare
 
@@ -106,10 +110,12 @@ Examples include:
 
 - **Medical image analysis:** Highlighting patterns in X-rays or other medical images for professional review.
 - **Health research:** Helping researchers analyze large datasets.
-- **Clinical decision support:** Organizing information that may help professionals evaluate a situation.
+- **Clinical decision support:** Organizing information that may help healthcare professionals evaluate a situation.
 - **Administration:** Assisting with appointment scheduling or organizing records.
 
-A **medical image** is an image showing structures inside the body, such as an X-ray. A **clinical decision** is a decision related to a person's healthcare.
+A **medical image** is an image showing structures inside the body, such as an X-ray.
+
+**Clinical decision support** refers to information or recommendations that help healthcare professionals evaluate a patient's situation. It does not necessarily make the final medical decision.
 
 ### 5.2 Worked Example: Reviewing a Medical Image
 
@@ -120,25 +126,32 @@ The process is:
 1. A medical image is provided to the system.
 2. The system analyzes patterns in the image.
 3. It highlights an area for the healthcare professional to examine.
-4. The professional reviews the original image and other relevant information.
+4. The professional reviews the original image and other relevant information, including the patient's medical history when appropriate.
 5. The professional decides whether further examination or testing is appropriate.
 
-The highlighted area is not a confirmed diagnosis. AI can make mistakes, and a professional must interpret the result in its proper context.
+The highlighted area is not a confirmed diagnosis. It is an indication that may require further investigation.
+
+AI systems can produce false results, and their performance may vary depending on the quality of the images, the data used to develop the system, and the clinical situation.
+
+Before being used in healthcare, an AI system should be appropriately evaluated for its intended purpose. Healthcare professionals must use their knowledge and judgment when interpreting AI-supported results.
 
 ### 5.3 Benefits and Limitations
 
 **Benefits**
+
 - May help professionals review large amounts of information.
 - Can highlight patterns that deserve closer examination.
 - May support research and administrative work.
+- Can assist healthcare professionals with certain tasks when properly evaluated.
 
 **Limitations**
+
 - Incorrect results may affect important decisions.
 - Unrepresentative data may lead to unequal performance.
 - Medical information is sensitive and requires protection.
-- AI cannot take full responsibility for a patient's care.
+- AI cannot replace the professional judgment and responsibility required for patient care.
 
-Healthcare AI must be evaluated carefully, with appropriate professional oversight and privacy safeguards.
+Healthcare AI should be appropriately evaluated and used with professional oversight, patient safety measures, and privacy safeguards (World Health Organization [WHO], 2021).
 
 ## 6. AI in Business
 
@@ -154,7 +167,9 @@ Common applications include:
 - **Recommendation systems:** Suggesting products based on browsing or purchase patterns.
 - **Document processing:** Helping organize or summarize business documents.
 
-A **forecast** is an estimate of what may happen in the future. A **recommendation system** suggests items or information based on patterns or user preferences.
+A **forecast** is an estimate of what may happen in the future.
+
+A **recommendation system** suggests items or information based on patterns or user preferences.
 
 ### 6.2 Worked Example: Estimating Product Demand
 
@@ -175,12 +190,14 @@ The estimate can help the shop prepare. However, the prediction may be inaccurat
 ### 6.3 Benefits and Limitations
 
 **Benefits**
+
 - Reduces time spent on repetitive tasks.
 - Helps businesses organize large amounts of data.
 - Can support planning and customer service.
 - May help identify unusual patterns.
 
 **Limitations**
+
 - Predictions may be wrong.
 - Customer data may be collected or used inappropriately.
 - Automated recommendations can disadvantage some customers or sellers.
@@ -202,7 +219,9 @@ Examples include:
 - **Environmental research:** Analyzing satellite images or measurements to monitor environmental changes.
 - **Simulation support:** Helping researchers explore possible outcomes before conducting physical experiments.
 
-A **simulation** is a model of a real or imagined process that allows people to study how it may behave under different conditions. **Predictive maintenance** uses information about equipment to estimate when maintenance may be needed.
+A **simulation** is a model of a real or imagined process that allows people to study how it may behave under different conditions.
+
+**Predictive maintenance** uses information about equipment to estimate when maintenance may be needed.
 
 ### 7.2 Worked Example: Predictive Maintenance
 
@@ -221,18 +240,20 @@ This approach may help the factory identify problems earlier. However, unusual m
 ### 7.3 Benefits and Limitations
 
 **Benefits**
+
 - Helps analyze complex datasets.
 - Can support early detection of equipment problems.
 - Allows researchers to explore possible designs.
 - May reduce time spent on repetitive analysis.
 
 **Limitations**
+
 - Poor-quality measurements can produce unreliable results.
 - A simulation may not represent every real-world condition.
 - Engineering systems still require testing and validation.
 - Safety-critical decisions require suitable standards and professional judgment.
 
-AI can assist scientific discovery, but its outputs must be tested against evidence.
+AI can assist scientific discovery, but its outputs must be tested against evidence and evaluated for their intended purpose (NIST, 2023).
 
 ## 8. AI in Art, Music, and Creativity
 
@@ -248,7 +269,9 @@ Applications include:
 - **Video and animation:** Helping develop storyboards or visual concepts.
 - **Design:** Exploring possible layouts, logos, or product concepts.
 
-A **prompt** is an instruction or input given to an AI system. A **draft** is an initial version of work that can be reviewed and improved.
+A **prompt** is an instruction or input given to an AI system.
+
+A **draft** is an initial version of work that can be reviewed and improved.
 
 ### 8.2 Worked Example: Designing a Poster
 
@@ -262,21 +285,28 @@ Step by step:
 4. The student checks the text, images, factual claims, and visual clarity.
 5. The student edits the design and ensures that the final work follows school rules and relevant copyright requirements.
 
-The AI can help the student explore ideas, but the student remains responsible for the final result.
+The AI can help the student explore ideas, but the student remains responsible for reviewing and improving the final result.
 
 ### 8.3 Benefits and Limitations
 
 **Benefits**
+
 - Helps users explore ideas quickly.
 - Supports creative experimentation.
 - Can make some design tasks more accessible.
 - Produces starting points that people can refine.
 
 **Limitations**
+
 - Generated content may contain errors or unwanted details.
-- The output may resemble existing work.
-- Users must consider copyright, attribution, and the rules governing their work.
+- The output may resemble existing copyrighted work.
+- Users must consider copyright, attribution, licensing conditions, and the rules governing their work.
 - Generated content may not express the creator's intended meaning accurately.
+- The legal status and ownership of AI-generated content may depend on the applicable country's laws, the level of human creative contribution, and the terms of the AI tool.
+
+Using AI does not automatically mean that generated content is free from copyright restrictions. Users should check whether they have permission to use relevant source material and whether the generated output closely resembles an existing protected work.
+
+Human creativity, editing, and original contributions remain important. Copyright rules can differ between countries, so users should follow the applicable laws and institutional requirements (World Intellectual Property Organization [WIPO], 2024).
 
 AI can be a creative assistant, but human choices, editing, and judgment remain important.
 
@@ -355,20 +385,28 @@ Answer the questions:
 
 ### Activity A
 
-1. C — Business. Demand forecasting helps businesses plan stock.
-2. E — Art, music, and creativity. Generative AI can help explore design ideas.
-3. D — Science and engineering. AI can help analyze environmental data.
-4. A — Education. The platform recommends learning exercises.
-5. B — Healthcare. The system supports professional examination of a medical image.
+1. **C — Business.** Demand forecasting helps businesses plan stock.
+
+2. **E — Art, music, and creativity.** Generative AI can help explore design ideas.
+
+3. **D — Science and engineering.** AI can help analyze environmental data.
+
+4. **A — Education.** The platform recommends learning exercises.
+
+5. **B — Healthcare.** The system supports professional examination of a medical image.
 
 6. Example: AI in education can recommend practice questions for learners who need more help with a particular skill.
+
 7. Example: A benefit is targeted practice. A limitation is that the recommendation may not correctly identify the reason for a learner's mistake.
+
 8. Human expertise helps check results, understand context, recognize errors, and make decisions for which the AI system may not be suitable.
 
 ### Activity B
 
-1. No. The promotion may change customer demand, making the prediction less reliable.
+1. **No.** The promotion may change customer demand, making the prediction less reliable.
+
 2. Information about the promotion, previous promotional sales, current stock, and other relevant market conditions could help.
+
 3. The manager should review the forecast, consider the promotion, compare other relevant evidence, and use business judgment before ordering stock.
 
 Other well-reasoned answers are acceptable.
@@ -379,21 +417,19 @@ Other well-reasoned answers are acceptable.
 - Applications should be evaluated according to the problems they are intended to solve.
 - AI may support analysis, predictions, automation, and content creation.
 - AI outputs can be inaccurate, biased, incomplete, or unsuitable for a particular situation.
-- Privacy, safety, fairness, and accountability should be considered.
+- Privacy, safety, fairness, copyright, and accountability should be considered.
+- Healthcare AI can support professionals, but its results require appropriate evaluation and professional judgment.
+- AI-generated creative content may raise copyright and ownership questions.
 - Human expertise remains important when interpreting AI results and making consequential decisions.
 
 ## 15. References
 
-1. UNESCO. (2023). *Guidance for Generative AI in Education and Research.*
-   https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
+1. Miao, F., & Holmes, W. (2023). *Guidance for generative AI in education and research.* UNESCO. https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
 
-2. World Health Organization. (2021). *Ethics and Governance of Artificial Intelligence for Health.*
-   https://www.who.int/publications/i/item/9789240029200
+2. World Health Organization. (2021). *Ethics and governance of artificial intelligence for health: WHO guidance.* https://www.who.int/publications/i/item/9789240029200
 
-3. National Institute of Standards and Technology (NIST). *AI Risk Management Framework FAQs.*
-   https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-faqs
+3. National Institute of Standards and Technology. (n.d.). *AI Risk Management Framework FAQs.* https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-faqs
 
-4. U.S. Department of Transportation. *Artificial Intelligence.*
-   https://www.transportation.gov/AI
+4. World Intellectual Property Organization. (2024). *Generative AI: Navigating intellectual property.* https://www.wipo.int/publications/en/details.jsp?id=4713
 
-**Source-use note:** These sources provide background on responsible AI, healthcare, education, and transportation. The examples and activities in this section are original teaching examples created for this learning module.
+**Source-use note:** These references provide background on responsible AI use in education, healthcare, general AI risk management, and intellectual property. References are connected to the relevant explanations throughout the section. The worked examples, comparison table, learner activities, and sample scenarios are original teaching materials created for this learning module.

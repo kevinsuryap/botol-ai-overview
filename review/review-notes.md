@@ -221,7 +221,7 @@ The lesson addresses important limitations and responsible-use considerations, i
 
 ### Status
 
-[Changes required]
+[Revised]
 
 ---
 ## Review 6: Limitations and Risks
@@ -258,7 +258,7 @@ Overall, the content flows logically and is clearly structured. However, a few t
 
 ### Status
 
-[Changes required]
+[Revised]
 
 ---
 
