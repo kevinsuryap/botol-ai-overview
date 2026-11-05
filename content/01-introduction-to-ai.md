@@ -59,7 +59,7 @@ AI did not develop overnight. It has evolved through decades of research, experi
 | Year or Period | Milestone | Significance |
 |---|---|---|
 | 1950 | Alan Turing published a paper exploring whether machines could demonstrate intelligent behaviour. | Helped shape early discussions about machine intelligence. |
-| 1956 | The Dartmouth summer research project took place. | Helped establish Artificial Intelligence as a recognised research field. |
+| 1956 | The Dartmouth summer research project took place, introducing the term Artificial Intelligence as the name of a research field. | Helped establish Artificial Intelligence as a recognised research field. |
 | 1980s | Expert systems attracted significant research and commercial interest. | Demonstrated how computer systems could represent specialised knowledge and support certain decisions. |
 | 1997 | IBM's Deep Blue defeated world chess champion Garry Kasparov in a chess match. | Demonstrated the ability of a computer system to perform exceptionally well in a complex game. |
 | 2010s | Advances in computing and AI research led to major improvements in image recognition, speech processing, and other tasks. | Expanded the range of practical AI applications. |
@@ -192,7 +192,7 @@ Read each situation below. Decide whether it likely involves AI based on the des
 |---|---|---|
 | 1 | A music application recommends songs based on listening activity. | Yes / No |
 | 2 | A basic calculator adds two numbers using a fixed arithmetic operation. | Yes / No |
-| 3 | A translation application uses an AI system to translate sentences. | Yes / No |
+| 3 | A translation application processes sentences and converts them into another language. | Yes / No |
 | 4 | A digital clock displays the time using its programmed functions. | Yes / No |
 | 5 | A smartphone assistant responds to spoken questions. | Yes / No |
 | 6 | An AI image application creates an illustration from a written description. | Yes / No |
@@ -212,9 +212,9 @@ After completing the table, discuss the following questions:
 | No. | Answer | Explanation |
 |---|---|---|
 | 1 | Yes | Recommendation systems may use AI to suggest relevant music. |
-| 2 | Usually no | A basic calculator can perform arithmetic using fixed instructions without AI. |
-| 3 | Yes | The situation explicitly describes an AI translation system. |
-| 4 | Usually no | A basic digital clock does not need AI to display the time. |
+| 2 | No | A basic calculator can perform arithmetic using fixed instructions without AI. |
+| 3 | Yes | Modern AI-powered translation applications use AI to process and translate languages. |
+| 4 | No | A basic digital clock does not need AI to display the time. |
 | 5 | Yes | Modern voice assistants commonly use AI to process spoken requests and respond. |
 | 6 | Yes | The application uses AI to generate an image from a written description. |
 
@@ -256,24 +256,28 @@ Understanding what AI is and where it is used provides a foundation for learning
 
 ## 9. Further Reading and References
 
-1. **National Institute of Standards and Technology (NIST) — Artificial Intelligence**
+1. **Stanford University — One Hundred Year Study on Artificial Intelligence (AI100)**
 
-   https://www.nist.gov/artificial-intelligence
+   https://ai100.stanford.edu/about/history
 
-   Introduces AI-related research, standards, and initiatives.
+   Provides a historical timeline of AI, including the 1950 Turing paper, the 1956 Dartmouth project, and the 1997 Deep Blue milestone.
 
 2. **IBM — What Is Artificial Intelligence?**
 
    https://www.ibm.com/think/topics/artificial-intelligence
 
-   Provides an overview of AI and its applications.
+   Provides an overview of AI, its capabilities, and its applications.
 
 3. **Dartmouth College — Artificial Intelligence Coined at Dartmouth**
 
    https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth
 
-   Provides historical background on the establishment of AI as a research field.
+   Explains the origins of the term Artificial Intelligence and the 1956 Dartmouth research project.
 
-These resources can help learners explore the topic further and allow the team to verify factual information before publication.
+4. **UK Parliament — AI in the UK: Ready, Willing and Able?**
 
----
+   https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10005.htm
+
+   Provides historical information about the development of expert systems and their applications during the 1980s.
+
+These resources provide additional information for learners who want to explore the history, development, and applications of Artificial Intelligence.
