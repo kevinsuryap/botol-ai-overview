@@ -133,7 +133,7 @@ Recommended improvements are to clarify the algorithm-versus-model distinction, 
 
 ### Status
 
-[Changes required]
+[Revised]
 ---
 
 
@@ -372,7 +372,7 @@ Changes required
 |---|---|---|
 | Introduction to AI | Kevin Surya | Changes required |
 | AI Approaches | Ethan Salim | Changes required |
-| Basic AI Concepts | Bienvenindo | Changes required |
+| Basic AI Concepts | Bienvenindo | Revised |
 | Generative AI | Bryant Ethan | Changes required |
 | AI Applications | Franklin Halim | Pending |
 | Limitations and Risks | Bhima Warren | Pending |

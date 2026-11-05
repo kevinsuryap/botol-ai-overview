@@ -4,8 +4,8 @@ This file replaces the "Development Status" tables that used to sit inside each 
 
 | Section | Objectives | Main content | Example | Activity + key | References | Peer review | Overall |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 Introduction | Drafted | Drafted | Drafted | Corrected | Corrected; page numbers pending | Done; corrections applied | Drafted |
-| 2 Basic concepts | Drafted | Drafted | Drafted | Drafted | Drafted | Done; improvements applied | Drafted (flagship) |
+| 1 Introduction | Checked | Checked | Checked | Corrected | Corrected; page numbers pending | Done; corrections applied | Drafted |
+| 2 Basic concepts | Checked | Needs Revision | Checked | Drafted | Drafted | Done; improvements applied | Drafted (flagship) |
 | 3 Approaches | Drafted | Drafted | Drafted | Corrected | Corrected | Done; corrections applied | Drafted |
 | 4 Generative AI | Drafted | Drafted | Drafted | Drafted | Corrected | Done; partly applied | Drafted |
 | 5 Applications | Drafted | Drafted | Drafted | Drafted | Drafted | **Not done** | Drafted; review pending |
