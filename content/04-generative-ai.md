@@ -1,4 +1,4 @@
-# Lesson 3: Understanding Generative AI
+# Lesson 4: Understanding Generative AI
 
 ## 1. Overview
 
