@@ -11,7 +11,7 @@
 | S5 | Google for Developers. *Machine Learning Crash Course.* | https://developers.google.com/machine-learning/crash-course | 02 | Data, models, training, generalisation | Not re-tested |
 | S6 | IBM. (n.d.-a). *What is machine learning?* | https://www.ibm.com/think/topics/machine-learning | 02, 03 | Machine learning definition | Reviewed (Review 2) |
 | S7 | IBM. (n.d.-b). *What is deep learning?* | https://www.ibm.com/think/topics/deep-learning | 03 | Deep learning definition | Reviewed (Review 2) |
-| S8 | NIST. *Generative AI* (glossary entry). | https://csrc.nist.gov/glossary/term/genai | 03 | Generative AI definition (suggested by reviewer) | Not re-tested |
+| S8 | NIST. *Generative AI* (glossary entry). | https://csrc.nist.gov/glossary/term/genai | 02, 04 | Generative AI definition (suggested by reviewer) | Not re-tested |
 | S9 | OpenAI. *Prompt engineering best practices.* | https://help.openai.com/en/articles/10032626 | 04 | Prompting principles | Not re-tested |
 | S10 | Google AI for Developers. *Prompting strategies.* | https://ai.google.dev/gemini-api/docs/prompting-strategies | 04 | Prompting principles | Not re-tested |
 | S11 | Autio, C., et al. (2024). *AI RMF: Generative AI Profile* (NIST AI 600-1). National Institute of Standards and Technology. | https://doi.org/10.6028/NIST.AI.600-1 | 04, 08 | Generative AI risks | Not re-tested |
@@ -23,7 +23,7 @@
 | S17 | McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (2006). A proposal for the Dartmouth Summer Research Project on AI (1955). *AI Magazine, 27*(4), 12. | https://doi.org/10.1609/aimag.v27i4.1904 | 08 | Dartmouth proposal date | Not re-tested |
 | S18 | Turing, A. M. (1950). Computing machinery and intelligence. *Mind, 59*(236), 433-460. | https://doi.org/10.1093/mind/LIX.236.433 | 08 | Turing paper | Not re-tested |
 | S19 | UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence.* | https://unesdoc.unesco.org/ark:/48223/pf0000381137 | 08 | AI ethics | Not re-tested |
-| S20 | Ji, Z., et al. (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys.* | https://arxiv.org/abs/2202.03629 | 06, 08 | Hallucination | Not re-tested |
+| S20 | Ji, Z., et al. (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys.* | https://arxiv.org/abs/2202.03629 | 04, 06, 08 | Hallucination | Not re-tested |
 | S21 | National Academy of Sciences. (n.d.). *John McCarthy* (biographical memoir). | https://www.nasonline.org/wp-content/uploads/2024/06/mccarthy-john.pdf | 08 | McCarthy proposed the name "AI" | Not re-tested |
 | S22 | World Intellectual Property Organization. (2024). *Generative AI: Navigating intellectual property.* | https://www.wipo.int/publications/en/details.jsp?id=4713 | 05 | Copyright, attribution, and intellectual-property considerations for generative AI | Not re-tested |
 | S23 | UK Parliament. (n.d.). *AI in the UK: Ready, Willing and Able?* | https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10005.htm | 01 | Historical background on expert systems | Not re-tested |
