@@ -34,3 +34,24 @@
 | T21 | Produce Study Guide from checked Markdown | Bryant | To do | See `deliverables/study-guide/` |
 | T22 | Produce slides from checked Markdown | Warren | To do | See `deliverables/slides/` |
 | T23 | Record video tutorials | Franklin | To do | See `deliverables/video-tutorials/` |
+
+---
+
+## C. Stage 3 finalisation tasks
+
+Statuses below are deliberately left as **To do** until the final source files and evidence have been inspected.
+
+| ID | Task | Owner | Status | Completion check |
+|---|---|---|---|---|
+| S3-01 | Update the project log so progress, blockers, decisions, and evidence are visually clear | Repository/Submission Lead + team | To do | Dated entries include links/screenshots and distinguish completed from planned work |
+| S3-02 | Resolve remaining Markdown review items and add relevant visuals/captions | Content owners + Quality Lead | To do | Section 5 review, open corrections, citations, and learner-facing image embeds checked |
+| S3-03 | Finalise the Study Guide for independent beginner learning | Study Guide Lead | To do | Full eight-section coverage, navigation/TOC, glossary, worked examples, varied activities, visuals, and required page length checked |
+| S3-04 | Finalise a separate editable Test Bank | Assessment Lead | To do | At least 20 T/F, 20 MCQ, and 6 open-ended questions; self-contained wording, balanced coverage, answer key and explanations |
+| S3-05 | Check answer placement and question quality | Quality Lead | To do | Answers are separated from learner exercises; no accidental clues or context-dependent questions |
+| S3-06 | Finalise the complete editable PPT collection | Slide Lead | To do | All topics covered, clear teaching story, concise slides, readable text, meaningful visuals, notes, class activities, and demo fallback |
+| S3-07 | Rehearse the PPT and verify presenter materials | Presenters + Slide Lead | To do | Timing, transitions, notes, script, and audience activities tested |
+| S3-08 | Improve and quality-check tutorial videos | Video Lead | To do | Explanatory demonstrations rather than slide-reading; captions, clear audio, readable visuals, pacing, and export quality checked |
+| S3-09 | Test resources with a beginner learner | Team | To do | Record what the learner could/could not understand and the resulting revisions |
+| S3-10 | Complete cross-resource mapping | Repository/Submission Lead | To do | Actual chapter/page, question ID, slide, and video time references filled in |
+| S3-11 | Complete the improvement summary and final submission report | Repository/Submission Lead + Quality Lead | To do | Each teacher/peer/testing issue is linked to a specific change and evidence |
+| S3-12 | Assemble and inspect the final submission package | Team | To do | Required editable files, exports, supporting assets, and report open correctly; package contents verified |
