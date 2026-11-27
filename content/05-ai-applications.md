@@ -39,21 +39,13 @@ These applications have different purposes, and each has its own benefits, limit
 ## 3. Key Terminology
 
 | Term | Definition | Example |
-
 |---|---|---|
-
 | Algorithm | A set of instructions or procedures used to solve a problem. | Instructions used to sort information. |
-
 | Data | Information used by a computer system. | Images, text, measurements, or sales records. |
-
 | Machine learning (ML) | A method in which a computer system learns patterns from data to perform a task. | Learning patterns associated with different types of images. |
-
 | Prediction | An estimate of an outcome based on available information. | Estimating how many products a shop may sell next week. |
-
 | Automation | Using technology to perform a task with reduced manual effort. | Automatically sorting incoming customer requests. |
-
 | Generative AI | AI designed to produce new content, such as text, images, music, or code. | Generating a draft of a poster. |
-
 | Human oversight | Human checking, supervision, or intervention when an AI system is used. | A doctor reviewing an AI-supported result. |
 
 Not every application uses the same type of AI. Some systems classify information, some make predictions, and generative AI creates new content.
@@ -326,7 +318,7 @@ This approach may help the factory identify problems earlier. However, unusual m
 
 - Safety-critical decisions require suitable standards and professional judgment.
 
-AI can assist scientific discovery, but its outputs must be tested against evidence and evaluated for their intended purpose (NIST, 2023).
+AI can assist scientific discovery, but its outputs must be tested against evidence and evaluated for their intended purpose (Tabassi, 2023).
 
 ## 8. AI in Art, Music, and Creativity
 
@@ -401,17 +393,11 @@ AI can be a creative assistant, but human choices, editing, and judgment remain 
 ## 9. Comparing AI Applications
 
 | Field | Problem addressed | Example AI application | Potential benefit | Important limitation |
-
 |---|---|---|---|---|
-
 | Education | Students need more practice or feedback. | Recommending exercises. | More targeted practice. | Feedback may be wrong. |
-
 | Healthcare | Professionals need to review complex information. | Highlighting patterns in medical images. | Supports closer examination. | Does not confirm a diagnosis. |
-
 | Business | Businesses need to plan stock or process requests. | Demand forecasting. | Supports planning. | Predictions may be inaccurate. |
-
 | Science and engineering | Researchers need to analyze measurements or monitor equipment. | Predictive maintenance. | May identify unusual patterns early. | Measurements require interpretation. |
-
 | Art, music, and creativity | Creators need ideas or initial drafts. | Generating a poster concept. | Encourages experimentation. | Requires review and responsible use. |
 
 The best application depends on the problem being solved. A tool that is useful for brainstorming may not be appropriate for making a high-impact decision.
@@ -446,7 +432,9 @@ Evaluation:
 
 ## 11. Learner Activity A: Match Applications to Problems
 
-Match each situation with the most appropriate application area.
+**Instructions:** Match each situation with the most appropriate application area. Use each letter once. Then complete Questions 6–8 in full sentences. You may refer to Sections 4–10, but do not look at the answer key until you have finished.
+
+**Expected output:** Five letter matches and three short written explanations.
 
 **Application areas**
 
@@ -482,11 +470,9 @@ Then answer:
 
 ## 12. Learner Activity B: Evaluate an AI Application
 
-A small business uses AI to forecast weekly sales. The system predicts that the business will sell 500 units of a product next week.
+A small business uses an AI forecasting system to estimate weekly sales. It predicts that the business will sell 500 units of a product next week. The system was trained using previous sales records, but the information provided for this week's forecast does not include a major promotion that the business is about to launch.
 
-However, the business is about to launch a major promotion that was not included in the information used by the system.
-
-Answer the questions:
+Answer the questions using the scenario and the concepts in this section:
 
 1. Should the business accept the prediction without checking it?
 
@@ -548,8 +534,10 @@ Other well-reasoned answers are acceptable.
 
 2. World Health Organization. (2021). *Ethics and governance of artificial intelligence for health: WHO guidance.* https://www.who.int/publications/i/item/9789240029200
 
-3. National Institute of Standards and Technology. (n.d.). *AI Risk Management Framework FAQs.* https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-faqs
+3. Tabassi, E. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)* (NIST AI 100-1). National Institute of Standards and Technology. https://doi.org/10.6028/NIST.AI.100-1
 
-4. World Intellectual Property Organization. (2024). *Generative AI: Navigating intellectual property.* https://www.wipo.int/publications/en/details.jsp?id=4713
+4. National Institute of Standards and Technology. (n.d.). *AI Risk Management Framework FAQs.* https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-faqs
+
+5. World Intellectual Property Organization. (2024). *Generative AI: Navigating intellectual property.* https://www.wipo.int/publications/en/details.jsp?id=4713
 
 **Source-use note:** These references provide background on responsible AI use in education, healthcare, general AI risk management, and intellectual property. References are connected to the relevant explanations throughout the section. The worked examples, comparison table, learner activities, and sample scenarios are original teaching materials created for this learning module.
