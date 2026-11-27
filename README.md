@@ -204,40 +204,36 @@ The repository's commit history, pull requests, and review records provide evide
 
 ## 9. Current Project Progress
 
-**Last updated:** 26 October 2026
+**Stage 3 readiness snapshot:** 27 November 2026  
+**Latest commit visible on the main branch at the time of review:** 7 November 2026
 
-The team has developed the initial learning content for all eight sections and is continuing to improve the materials for Stage 2.
+The repository contains the eight Markdown source lessons, project/review documentation, and six PNG files in `assets/images/`. The current repository snapshot does **not** contain the final editable Study Guide, Test Bank, PowerPoint deck, or tutorial video files. The three deliverable folders currently contain planning/readme documents only.
 
-### Completed
+### Verified in the repository
 
-- Developed the initial Markdown content for all eight sections.
-- Established the module outline and intended learning outcomes.
-- Created supporting diagrams and visual materials.
-- Prepared the content adaptation plan for the three learning resources.
-- Recorded initial peer-review findings and corrections.
-- Established project documentation and team responsibilities.
+- Eight topic Markdown files are present under `content/`.
+- The module outline and learning outcomes are documented.
+- Peer-review notes and a corrections log are present.
+- Six PNG image assets are stored in `assets/images/`.
+- Study Guide, slide, and video planning documents exist under `deliverables/`.
 
-### In Progress
+### Outstanding before Stage 3 can be called complete
 
-- Improving consistency between the agreed learning outcomes and lesson content.
-- Completing outstanding peer reviews.
-- Addressing unresolved corrections and reference issues.
-- Adding and checking in-text citations.
-- Improving beginner-friendliness and learning activities.
-- Updating project documentation and development records.
-- Developing the Study Guide, PPT Slides, and Video Tutorials.
+- Embed and caption relevant visuals in the learner-facing lessons and final resources; the image assets are not currently referenced from the eight lesson files.
+- Resolve the outstanding peer-review and citation items recorded in `review/` and `project/content-status.md`.
+- Inspect the final Study Guide and Test Bank for complete coverage, beginner-friendly explanations, self-contained questions, sufficient challenge, and separated answer explanations.
+- Inspect the full PPT collection for complete coverage, readable slide design, relevant visuals, presenter notes, class activities, and a usable demonstration fallback.
+- Inspect the final video files for explanatory teaching, clear narration, captions, pacing, and technical quality.
+- Complete the resource mapping with actual chapter/page, question, slide, and video time references.
+- Conduct a final learner test and record evidence of changes made in response to feedback.
 
-### Remaining
+The Stage 3 checklist and teacher-feedback action plan are maintained in:
+- [Stage 3 Readiness Checklist](project/stage3-readiness.md)
+- [Teacher Feedback Action Plan](review/stage3-feedback-action-plan.md)
+- [Resource Mapping](submission/report/RESOURCE_MAPPING.md)
+- [Final Submission Report Draft](submission/report/FINAL_SUBMISSION_REPORT.md)
 
-- Complete independent learner testing and review verification.
-- Confirm the accuracy and consistency of all eight sections.
-- Finalise references and supporting assets.
-- Complete the three learning resources using the reviewed Markdown content.
-- Prepare the complete readable Markdown PDF.
-- Prepare the Stage 2 Submission Report.
-- Assemble and test the final Stage 2 submission package.
-
-For more detailed progress information, see [content-status.md](project/content-status.md) and [task-list.md](project/task-list.md).
+**Status:** Stage 3 preparation is in progress. The repository documentation is not evidence that the separate Word, PowerPoint, or video deliverables have already passed final review.
 
 ## 10. Learning Resources
 
