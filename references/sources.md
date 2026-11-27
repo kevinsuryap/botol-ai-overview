@@ -7,14 +7,14 @@
 | S1 | IBM. (n.d.). *What is artificial intelligence (AI)?* | https://www.ibm.com/think/topics/artificial-intelligence | 01, 02 | Definition of AI; 1950 Turing and 1997 Deep Blue milestones | Reviewed (Review 1) |
 | S2 | Dartmouth College. (n.d.). *Artificial intelligence coined at Dartmouth.* | https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth | 01 | 1956 Dartmouth project; origin of the term | Reviewed (Review 1) |
 | S3 | Russell, S., & Norvig, P. (2021). *Artificial intelligence: A modern approach* (4th ed.). Pearson. | (book) | 01 | 1980s expert systems | Page numbers needed |
-| S4 | Tabassi, E. (2023). *AI Risk Management Framework (AI RMF 1.0)* (NIST AI 100-1). NIST. | https://doi.org/10.6028/NIST.AI.100-1 | 01, 06, 07 | Trustworthiness, fairness, risk | Reviewed through search results only (Review 7) |
+| S4 | Tabassi, E. (2023). *AI Risk Management Framework (AI RMF 1.0)* (NIST AI 100-1). NIST. | https://doi.org/10.6028/NIST.AI.100-1 | 01, 05, 06, 07 | Trustworthiness, fairness, risk | Reviewed through search results only (Review 7) |
 | S5 | Google for Developers. *Machine Learning Crash Course.* | https://developers.google.com/machine-learning/crash-course | 02 | Data, models, training, generalisation | Not re-tested |
 | S6 | IBM. (n.d.-a). *What is machine learning?* | https://www.ibm.com/think/topics/machine-learning | 02, 03 | Machine learning definition | Reviewed (Review 2) |
 | S7 | IBM. (n.d.-b). *What is deep learning?* | https://www.ibm.com/think/topics/deep-learning | 03 | Deep learning definition | Reviewed (Review 2) |
 | S8 | NIST. *Generative AI* (glossary entry). | https://csrc.nist.gov/glossary/term/genai | 03 | Generative AI definition (suggested by reviewer) | Not re-tested |
 | S9 | OpenAI. *Prompt engineering best practices.* | https://help.openai.com/en/articles/10032626 | 04 | Prompting principles | Not re-tested |
 | S10 | Google AI for Developers. *Prompting strategies.* | https://ai.google.dev/gemini-api/docs/prompting-strategies | 04 | Prompting principles | Not re-tested |
-| S11 | NIST. (2024). *AI RMF: Generative AI Profile* (NIST AI 600-1). | https://doi.org/10.6028/NIST.AI.600-1 | 04, 08 | Generative AI risks | Not re-tested |
+| S11 | Autio, C., et al. (2024). *AI RMF: Generative AI Profile* (NIST AI 600-1). National Institute of Standards and Technology. | https://doi.org/10.6028/NIST.AI.600-1 | 04, 08 | Generative AI risks | Not re-tested |
 | S12 | Miao, F., & Holmes, W. (2023). *Guidance for generative AI in education and research.* UNESCO. | https://unesdoc.unesco.org/ark:/48223/pf0000386693 and https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research | 05, 06, 07 | Human-centred use, privacy, education | Reviewed (Review 7); page needs a browser |
 | S13 | Miao, F., Shiohira, K., & Lao, N. (2024). *AI competency framework for students.* UNESCO. | https://www.unesco.org/en/articles/ai-competency-framework-students | 07 | Human-centred mindset, AI ethics | Reviewed (Review 7) |
 | S14 | World Health Organization. (2021). *Ethics and governance of artificial intelligence for health.* | https://www.who.int/publications/i/item/9789240029200 | 05, 06 | AI in healthcare | Not re-tested |
@@ -26,6 +26,7 @@
 | S20 | Ji, Z., et al. (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys.* | https://arxiv.org/abs/2202.03629 | 06, 08 | Hallucination | Not re-tested |
 | S21 | National Academy of Sciences. (n.d.). *John McCarthy* (biographical memoir). | https://www.nasonline.org/wp-content/uploads/2024/06/mccarthy-john.pdf | 08 | McCarthy proposed the name "AI" | Not re-tested |
 | S22 | World Intellectual Property Organization. (2024). *Generative AI: Navigating intellectual property.* | https://www.wipo.int/publications/en/details.jsp?id=4713 | 05 | Copyright, attribution, and intellectual-property considerations for generative AI | Not re-tested |
+| S23 | UK Parliament. (n.d.). *AI in the UK: Ready, Willing and Able?* | https://publications.parliament.uk/pa/ld201719/ldselect/ldai/100/10005.htm | 01 | Historical background on expert systems | Not re-tested |
 
 ## Original and borrowed material
 
