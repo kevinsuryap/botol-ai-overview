@@ -24,7 +24,7 @@ Learners should have a basic understanding of Artificial Intelligence and the di
 
 ## 2. What Is Generative AI?
 
-Generative AI is a category of AI designed to produce new content by learning patterns and relationships from training data.
+Generative AI is a category of AI designed to produce new content by learning patterns and relationships from training data (NIST, n.d.).
 
 Depending on the model, Generative AI can produce:
 
@@ -112,7 +112,7 @@ These examples illustrate possible uses rather than guarantees of accuracy. The 
 
 ## 5. Basic Prompt Engineering
 
-Prompt engineering is the practice of writing and refining instructions to guide an AI model toward a useful output.
+Prompt engineering is the practice of writing and refining instructions to guide an AI model toward a useful output (OpenAI, n.d.; Google AI for Developers, n.d.).
 
 A prompt does not need to follow a complicated formula. However, including the right details can make the intended task clearer.
 
@@ -207,7 +207,7 @@ Generative AI can be useful, but it also has limitations that users should under
 
 ### Inaccurate Information
 
-Generative AI may produce statements that sound correct but are false. Important information should be checked against reliable sources.
+Generative AI may produce statements that sound correct but are false. This risk is discussed in research on hallucinations in text generation (Ji et al., 2023) and in the NIST Generative AI Profile (Autio et al., 2024). Important information should be checked against reliable sources.
 
 ### Bias
 
@@ -318,7 +318,8 @@ The activity demonstrates that an effective prompt is only one part of using Gen
 
 - OpenAI — [Prompt Engineering Best Practices](https://help.openai.com/en/articles/10032626)
 - Google AI for Developers — [Prompting Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies)
-- NIST — [Artificial Intelligence](https://www.nist.gov/artificial-intelligence)
+- NIST — [Generative AI glossary entry](https://csrc.nist.gov/glossary/term/genai)
+- Autio, C., et al. (2024). *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile* (NIST AI 600-1). https://doi.org/10.6028/NIST.AI.600-1
 
 These resources provide further information about prompting and AI. Follow your course's citation requirements when incorporating information from external sources.
 
