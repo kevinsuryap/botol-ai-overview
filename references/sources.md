@@ -25,6 +25,7 @@
 | S19 | UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence.* | https://unesdoc.unesco.org/ark:/48223/pf0000381137 | 08 | AI ethics | Not re-tested |
 | S20 | Ji, Z., et al. (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys.* | https://arxiv.org/abs/2202.03629 | 06, 08 | Hallucination | Not re-tested |
 | S21 | National Academy of Sciences. (n.d.). *John McCarthy* (biographical memoir). | https://www.nasonline.org/wp-content/uploads/2024/06/mccarthy-john.pdf | 08 | McCarthy proposed the name "AI" | Not re-tested |
+| S22 | World Intellectual Property Organization. (2024). *Generative AI: Navigating intellectual property.* | https://www.wipo.int/publications/en/details.jsp?id=4713 | 05 | Copyright, attribution, and intellectual-property considerations for generative AI | Not re-tested |
 
 ## Original and borrowed material
 
