@@ -62,7 +62,7 @@ This demonstrates why checking only the general appearance of an answer is not e
 
 ### 4.1 Definition
 
-An **AI hallucination** is an output in which an AI system presents information that is false, fabricated, or unsupported as though it were valid information.
+An **AI hallucination** is an output in which an AI system presents information that is false, fabricated, or unsupported as though it were valid information (Ji et al., 2023; Autio et al., 2024).
 
 Hallucinations are particularly important in generative AI, which creates text, images, code, and other content.
 
@@ -70,7 +70,7 @@ For example, a chatbot might invent a research paper title, provide a reference 
 
 The term does not mean that the system is experiencing a human mental experience. It describes a type of unreliable AI output.
 
-AI hallucinations can occur during normal operation and do not necessarily mean that the system is broken. They may result from limitations in the model, incomplete information, or the way the system generates responses. Their occurrence can depend on the question, available context, and system design.
+AI hallucinations can occur during normal operation and do not necessarily mean that the system is broken. They may be influenced by limitations in the model, incomplete information, the prompt, available context, and system design. They are not best described as simply random events; their likelihood can vary with the task and conditions (Ji et al., 2023; Autio et al., 2024).
 
 Therefore, users should verify important information even when an AI system appears to be working normally.
 
@@ -109,7 +109,7 @@ AI bias may arise from:
 - Choices made when designing or evaluating a system.
 - Using an AI system in a context for which it was not properly tested.
 
-Bias does not require a computer to have an intention to discriminate. A system can produce unfair results because of its data, design, or use.
+Bias does not require a computer to have an intention to discriminate. A system can produce unfair results because of its data, design, or use. AI risk-management guidance therefore recommends evaluating fairness and potential impacts throughout the system's use (Tabassi, 2023).
 
 ### 5.2 Worked Example: An AI Hiring System
 
@@ -149,7 +149,9 @@ These measures can reduce risk but cannot guarantee that every form of bias will
 
 **Privacy** concerns how information about people is collected, used, stored, and shared.
 
-**Data protection** refers to the rules and practices used to keep personal information safe and prevent it from being accessed, used, or shared improperly.
+**Data protection** means the practical rules and safeguards used to keep personal information safe and prevent it from being accessed, used, or shared improperly.
+
+In simple terms: **privacy is about whether and how information should be used; data protection is about keeping that information secure and handling it properly.**
 
 For example, a student's name, student number, and grades should only be shared with people or services that are authorized to access them.
 
@@ -227,6 +229,10 @@ Overreliance can cause people to overlook errors, ignore important information, 
 A responsible user treats AI as a tool that may help with a task, not as an automatic replacement for knowledge, judgment, or accountability.
 
 ## 8. A Visual Framework for Verifying AI Information
+
+![Verification flow showing how to check an AI-generated claim against evidence before using it.](../assets/images/06-verification-flow%20%281%29.png)
+
+*Figure 1. Use this flow as a reminder to identify a claim, check evidence, compare sources, and revise unsupported statements. The worked example in Section 9 demonstrates the process.*
 
 Use the following process before relying on an important AI-generated answer.
 
