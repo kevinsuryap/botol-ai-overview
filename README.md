@@ -207,14 +207,14 @@ The repository's commit history, pull requests, and review records provide evide
 **Stage 3 readiness snapshot:** 27 November 2026  
 **Latest commit visible on the main branch at the time of review:** 7 November 2026
 
-The repository contains the eight Markdown source lessons, project/review documentation, and six PNG files in `assets/images/`. The current repository snapshot does **not** contain the final editable Study Guide, Test Bank, PowerPoint deck, or tutorial video files. The three deliverable folders currently contain planning/readme documents only.
+The repository contains the eight Markdown source lessons, project/review documentation, and five PNG files in `assets/images/`. The current repository snapshot does **not** contain the final editable Study Guide, Test Bank, PowerPoint deck, or tutorial video files. The three deliverable folders currently contain planning/readme documents only.
 
 ### Verified in the repository
 
 - Eight topic Markdown files are present under `content/`.
 - The module outline and learning outcomes are documented.
 - Peer-review notes and a corrections log are present.
-- Six PNG image assets are stored in `assets/images/`.
+- Five PNG image assets are stored in `assets/images/`.
 - Study Guide, slide, and video planning documents exist under `deliverables/`.
 
 ### Outstanding before Stage 3 can be called complete
