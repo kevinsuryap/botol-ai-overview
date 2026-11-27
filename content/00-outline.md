@@ -57,7 +57,7 @@ The module consists of eight sections arranged in a logical sequence.
 
 | Section | File | Main Topics and Subtopics | Planned Learning Activities | Status |
 |---|---|---|---|---|
-| 1. Introduction to AI | `01-introduction-to-ai.md` | Definition of AI, brief history, everyday examples, importance of AI | Identify AI tools used in daily life | Needs revision |
+| 1. Introduction to AI | `01-introduction-to-ai.md` | Definition of AI, brief history, everyday examples, importance of AI | Identify AI tools used in daily life | Drafted |
 | 2. Basic AI Concepts | `03-basic-ai-concepts.md` | Data, algorithms, models, training, predictions | Match AI terms with their definitions | Drafted |
 | 3. Different Approaches to AI | `02-ai-approaches.md` | Symbolic AI, connectionist AI, behavior-based AI | Compare the approaches using simple examples | Drafted |
 | 4. Generative AI | `04-generative-ai.md` | Text and image generation, LLMs, prompts | Try a prompt and evaluate the generated response | Drafted |
@@ -99,7 +99,7 @@ Statuses should be updated according to the actual progress of each section.
 
 **Expected learning outcome:** Learners can explain what AI is and recognise common examples.
 
-**Status:** Outline only.
+**Status:** Drafted.
 
 ### Section 2: Basic AI Concepts
 
@@ -121,7 +121,7 @@ Statuses should be updated according to the actual progress of each section.
 
 **Expected learning outcome:** Learners can explain basic AI terminology and describe a simplified AI workflow.
 
-**Status:** Outline only.
+**Status:** Drafted.
 
 ### Section 3: Different Approaches to AI
 
@@ -141,7 +141,7 @@ Statuses should be updated according to the actual progress of each section.
 
 **Expected learning outcome:** Learners can describe the three approaches at a basic level and recognise that AI can be developed in different ways.
 
-**Status:** Outline only.
+**Status:** Drafted.
 
 ### Section 4: Generative AI
 
@@ -164,7 +164,7 @@ Statuses should be updated according to the actual progress of each section.
 
 **Expected learning outcome:** Learners can explain generative AI, describe the purpose of prompts, and evaluate basic AI-generated content.
 
-**Status:** Outline only.
+**Status:** Drafted.
 
 ### Section 5: Applications of AI
 
@@ -187,7 +187,7 @@ Statuses should be updated according to the actual progress of each section.
 
 **Expected learning outcome:** Learners can identify practical applications of AI and explain the problems they are intended to address.
 
-**Status:** Outline only.
+**Status:** Needs revision.
 
 ### Section 6: Limitations and Risks of AI
 
@@ -210,7 +210,7 @@ Statuses should be updated according to the actual progress of each section.
 
 **Expected learning outcome:** Learners can identify common AI risks and explain why checking AI-generated information is necessary.
 
-**Status:** Outline only.
+**Status:** Drafted.
 
 ### Section 7: Responsible Use of AI
 
@@ -233,7 +233,7 @@ Statuses should be updated according to the actual progress of each section.
 
 **Expected learning outcome:** Learners can apply basic principles of responsible AI use to everyday situations.
 
-**Status:** Outline only.
+**Status:** Drafted.
 
 ### Section 8: Using What We Learned About AI
 
