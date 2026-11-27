@@ -76,10 +76,11 @@ This checklist is a working control document. A task is complete only when the f
 
 ## Current verified repository state
 
-- Eight Markdown source lessons are present in `content/`.
-- Five PNG files are present in `assets/images/`.
-- No embedded image references were found in the eight lesson Markdown files during the repository review.
-- The three deliverable folders currently contain planning/readme documents only; final Word, PowerPoint, and video files were not present in the inspected repository snapshot.
-- The project review records contain outstanding items, including the Section 5 peer review and some citation/activity checks.
+- The README, module outline, eight learner-facing Markdown lessons, and source reference list are present.
+- Five PNG assets are present in `assets/images/` and embedded in Lessons 1, 2, 3, 6, and 8 using relative paths, descriptive alt text, and figure captions.
+- Lessons 4, 5, and 7 do not have dedicated PNG assets in the current repository; their written explanations and activities remain part of the module.
+- The external reference links, image rendering, and exported-document appearance still require final testing.
+- The content tracker keeps the lessons at Drafted/Needs revision; no lesson is marked Checked. Section 5 peer review and other review/activity checks remain open.
+- The three deliverable folders contain planning/readme documents only; final Word, PowerPoint, and video files were not present in the inspected repository snapshot.
 
 **Overall status:** Preparation in progress; final deliverables not yet verified.
