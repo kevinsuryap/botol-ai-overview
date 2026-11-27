@@ -28,7 +28,7 @@ By the end of this section, learners should be able to:
 
 ### 2.1 What Is Data?
 
-**Data** refers to information that can be collected, stored, and processed by a computer system.
+**Data** refers to information that can be collected, stored, and processed by a computer system (Google for Developers, n.d.).
 
 AI systems may use different types of data, including:
 
@@ -74,7 +74,7 @@ Therefore, collecting and preparing suitable data is an important part of develo
 
 ### 3.1 What Is an Algorithm?
 
-An **algorithm** is a defined set of instructions or steps used to solve a problem or complete a task.
+An **algorithm** is a defined set of instructions or steps used to solve a problem or complete a task (Google for Developers, n.d.).
 
 Algorithms are used in many areas of computing, not only in AI. For example, a calculator follows algorithms to perform mathematical operations.
 
@@ -156,7 +156,7 @@ Beginners do not need to calculate these values manually. It is enough to unders
 
 ### 5.1 What Is Training?
 
-**Training** is the process of developing a machine learning model by using data to adjust its internal parameters or otherwise improve its ability to perform a task.
+**Training** is the process of developing a machine learning model by using data to adjust its internal parameters or otherwise improve its ability to perform a task (Google for Developers, n.d.; IBM, n.d.-a).
 
 During a typical supervised machine learning process, a model is given examples with known answers. Its outputs are compared with the expected answers, and a learning algorithm adjusts the model to reduce errors.
 
@@ -166,9 +166,9 @@ Training is not the same as manually programming every possible answer. Instead,
 
 ### 5.2 What Is Generalisation?
 
-**Generalisation** refers to a model's ability to successfully adapt and perform accurately on new, unseen data that was not part of its training set. 
+**Generalisation** refers to a model's ability to apply patterns learned during training to new data that it has not seen before (Google for Developers, n.d.).
 
-A model that generalises well can look past the specific quirks of its training examples and capture underlying patterns, ensuring reliable performance in real-world scenarios. Conversely, a model that fails to generalise may have simply memorised the training data (overfitting) and will struggle when presented with unfamiliar inputs.
+A model that generalises well can perform usefully on suitable new examples, not just on its training data. A model that has memorised details of its training examples instead of learning broader patterns may be **overfitting** and may perform poorly on unfamiliar inputs. Generalisation does not guarantee that a model will be accurate in every real-world situation.
 
 ### 5.3 What Is a Prediction?
 
@@ -203,6 +203,10 @@ In many systems, training takes place before a model is used to make predictions
 The concepts introduced in this section are connected. In a typical supervised machine learning workflow, data is used to train a model, and the trained model can then make predictions about new inputs.
 
 ### 6.1 Basic AI Workflow
+
+![Basic machine-learning workflow from collecting data through training and evaluation to making predictions.](../assets/images/03-basic-ai-workflow%20%281%29.png)
+
+*Figure 1. A visual overview of a typical supervised machine-learning workflow. The text diagram below provides a readable step-by-step version.*
 
 ```text
         Collect Data
@@ -395,7 +399,7 @@ Testing with separate photographs helps determine whether the model can recognis
 - **Algorithms** describe methods for performing tasks or learning from data.
 - **Models** process inputs and produce outputs.
 - **Training** develops or adjusts a machine learning model.
-- **Generalisation** ensures models can apply learned patterns successfully to unseen, real-world data.
+- **Generalisation** describes a model's ability to apply learned patterns to suitable unseen data; it does not guarantee success in every real-world situation.
 - **Predictions** are outputs that a model produces for particular inputs.
 - These concepts are connected in many machine learning workflows.
 - AI predictions can be wrong and should be evaluated using appropriate evidence and testing.
@@ -414,9 +418,11 @@ The following resources provide further explanations of AI and machine learning 
 2. IBM. *What Is Artificial Intelligence (AI)?*  
    https://www.ibm.com/think/topics/artificial-intelligence
 
-3. National Institute of Standards and Technology (NIST). *Artificial Intelligence.*  
-   https://www.nist.gov/artificial-intelligence
+3. IBM. (n.d.-a). *What is machine learning?*  
+   https://www.ibm.com/think/topics/machine-learning
 
-4. Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson. (Provides foundational academic definitions for algorithms, models, and generalisation in machine learning).
+4. Russell, S., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
+
+The NIST introductory AI page previously listed here has been removed because the team's review record says it redirects to an unrelated page.
 
 These resources should be consulted when reviewing the material and developing further examples. The explanations in this section have been simplified for beginner learners.

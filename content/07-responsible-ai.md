@@ -31,7 +31,7 @@ Before studying this section, learners should understand:
 
 ## 7.5 What Is Responsible AI Use?
 
-Responsible AI use involves making careful decisions when using AI tools. It includes checking information, protecting private data, respecting other people, and following relevant rules.
+Responsible AI use involves making careful decisions when using AI tools. It includes checking information, protecting private data, respecting other people, and following relevant rules. Human-centred guidance for education also emphasizes learner agency, privacy, and responsible use (Miao & Holmes, 2023; Miao et al., 2024).
 
 Important principles include:
 
@@ -94,7 +94,7 @@ Human judgment is important because people can consider context, values, consequ
 
 For example, an AI tool may recommend a student study plan based on the information it receives. The student should still consider their own learning needs, schedule, and teacher's advice before following the recommendation.
 
-People should be especially careful when AI is used in situations involving health, safety, finances, education, or other important decisions.
+People should be especially careful when AI is used in situations involving health, safety, finances, education, or other important decisions. Risk-management guidance emphasizes evaluating possible harms and maintaining appropriate human oversight (Tabassi, 2023).
 
 **Remember:** AI can provide suggestions, but people remain responsible for how they use those suggestions.
 
@@ -124,7 +124,7 @@ The correct use of AI depends on the purpose of the assignment and the rules set
 
 ## 7.10 Protecting Personal and Confidential Information
 
-AI tools may process information entered by users. Depending on the tool and its settings, submitted information may be stored or used in different ways.
+AI tools may process information entered by users. Depending on the tool and its settings, submitted information may be stored or used in different ways. Educational guidance recommends protecting learners' personal information and checking whether a tool is appropriate for the intended use (Miao & Holmes, 2023).
 
 Users should therefore think carefully before sharing information with an AI system.
 
@@ -158,7 +158,7 @@ When reviewing AI outputs, users should ask:
 - Is the information appropriate for the situation?
 - Should a person with relevant knowledge review the result?
 
-AI outputs should be evaluated carefully, especially when they may affect people's opportunities, rights, or well-being.
+AI outputs should be evaluated carefully, especially when they may affect people's opportunities, rights, or well-being. Fairness and potential impacts should be considered as part of responsible AI risk management (Tabassi, 2023; Miao et al., 2024).
 
 ## 7.12 Responsible AI Use Checklist
 
@@ -180,7 +180,7 @@ If you cannot answer "yes" to an important question, review your work before pro
 
 A student is preparing a report about renewable energy. The student uses an AI tool to generate most of the report.
 
-The student notices that some statistics have no clear sources but includes them without checking. The student also uploads a classmate's private notes without permission and submits the report without acknowledging AI assistance, even though the teacher requires disclosure.
+The student notices that some statistics have no clear sources but includes them without checking. The student also uploads a classmate's private notes to help summarise a class discussion, without asking permission, and submits the report without acknowledging AI assistance, even though the teacher requires disclosure.
 
 ### Questions
 
@@ -188,7 +188,7 @@ The student notices that some statistics have no clear sources but includes them
 2. Why should the student verify the statistics and references?
 3. What should the student do before sharing the classmate's notes?
 4. How can the student use AI while following academic honesty rules?
-5. Name two ways the student could improve the report before submitting it.
+5. Name at least two ways the student could improve the report before submitting it.
 
 ### Expected Answers
 
@@ -196,7 +196,7 @@ The student notices that some statistics have no clear sources but includes them
 2. Verification helps ensure that the report contains accurate information and reliable evidence.
 3. The student should obtain permission and remove private or unnecessary information. If permission is not granted, the student should not upload the notes.
 4. The student should follow the teacher's rules, acknowledge AI assistance when required, check the content, and contribute their own understanding and work.
-5. The student could verify statistics using reliable sources, correct unsupported claims, rewrite sections in their own words, and add the required disclosure.
+5. Possible improvements include verifying statistics using reliable sources, correcting unsupported claims, rewriting sections in the student's own words, and adding the required disclosure. Any two relevant improvements are sufficient.
 
 *Other reasonable answers may be accepted if they demonstrate responsible AI use.*
 
@@ -222,12 +222,12 @@ Write a short response to these questions:
 
 ## 7.16 References
 
-1. UNESCO. (2023). *Guidance for Generative AI in Education and Research.*
+1. Miao, F., & Holmes, W. (2023). *Guidance for Generative AI in Education and Research.* UNESCO.
    https://unesdoc.unesco.org/ark:/48223/pf0000386693
 
-2. UNESCO. (2024). *AI Competency Framework for Students.*
+2. Miao, F., Shiohira, K., & Lao, N. (2024). *AI Competency Framework for Students.* UNESCO.
    https://www.unesco.org/en/articles/ai-competency-framework-students
 
-3. National Institute of Standards and Technology (NIST). (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0).*
+3. Tabassi, E. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)* (NIST AI 100-1). National Institute of Standards and Technology.
    https://doi.org/10.6028/NIST.AI.100-1
 

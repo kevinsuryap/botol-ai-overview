@@ -77,3 +77,23 @@ What happened to each review finding. **Applied** means the text was changed in 
 ## Review 5: Section 5, Applications (reviewer Franklin)
 
 No findings recorded. Review not yet done (task T12).
+
+
+---
+
+## Stage 3 Markdown revision pass — 27 November 2026
+
+The following changes were made in the Stage 3 Markdown revision branch. These are editorial changes by the repository editor; they are **not** independent reviewer sign-offs.
+
+| Lesson | Change made | Verification still required |
+|---|---|---|
+| Section 1 — Introduction | Added citations to key historical milestones and AI definition; embedded the AI timeline; made the translation activity example explicitly describe a trained language model. | Reviewer to check historical wording, visual accuracy, rendering, and answer key. |
+| Section 2 — AI Approaches | Added citations to ML/DL/GenAI definitions; clarified that artificial neural networks are not exact copies of the human brain; embedded the AI/ML/DL map; clarified activity output requirements. | Reviewer to check the map labels, conceptual distinctions, examples, and answer key. |
+| Section 3 — Basic Concepts | Added citations for data, algorithms, and training; rewrote generalisation to avoid implying guaranteed real-world accuracy; corrected the book year to 2021; removed the previously flagged NIST URL; embedded the workflow image. | Reviewer to check terminology, references, workflow image, and rendered tables. |
+| Section 4 — Generative AI | Added citations for GenAI and prompting; cited hallucination/risk sources; replaced the previously flagged NIST introductory URL with the GenAI glossary and NIST GenAI Profile. | Reviewer to test links and confirm citations support the claims. |
+| Section 5 — Applications | Improved learner activity instructions and made the forecasting scenario self-contained; aligned the NIST risk reference to Tabassi (2023); repaired blank lines inside Markdown tables. | Section 5 still requires the peer review that was missing from the earlier review record; check all citations and table rendering. |
+| Section 6 — Limitations and Risks | Added citations for hallucination and fairness; clarified privacy vs. data protection in plain language; avoided describing hallucinations as simply random; embedded the verification flow. | Reviewer to check privacy wording, source support, visual accuracy, and activity answers. |
+| Section 7 — Responsible AI | Added UNESCO/NIST in-text citations; completed author details in references; explained why class notes were uploaded; aligned Q5 wording with the answer key. | Reviewer to confirm references and scenario answers; confirm the NIST organisational focus is explained where needed. |
+| Section 8 — AI Practice | Replaced a realistic-looking fictional student name/ID with a neutral placeholder; embedded the Four-Question Check visual; strengthened the external-tool privacy note. | Reviewer to re-check all activity instructions, answer keys, image rendering, and source links. |
+
+**Cross-cutting checks still open:** test every external link, preview all eight lessons in GitHub and in the exported PDF, inspect image readability and attribution, and conduct a beginner learner test. Do not change the overall status to *Checked* until a reviewer signs off.

@@ -41,9 +41,9 @@ Before exploring the approaches, here are key terms used throughout this lesson:
 | **Neural network** | A computing system made of connected nodes that process information and learn patterns from data. |
 | **Weight** | The strength of a connection between nodes in a neural network; adjusted during learning. |
 | **Training data** | Examples used to teach a Connectionist system to recognise patterns. |
-| **Machine learning** | A branch of AI that allows systems to learn patterns from data and make predictions or decisions. |
-| **Deep learning** | A specialised type of machine learning that uses neural networks with multiple layers. |
-| **Generative AI** | AI that creates new content, such as text, images, audio, and videos. |
+| **Machine learning** | A branch of AI that allows systems to learn patterns from data and make predictions or decisions (IBM, n.d.-a; Google for Developers, n.d.). |
+| **Deep learning** | A specialised type of machine learning that uses neural networks with multiple layers (IBM, n.d.-b). |
+| **Generative AI** | AI that creates new content, such as text, images, audio, and videos (NIST, n.d.). |
 | **Agent** | A system (often a robot or software) that perceives its environment and acts on it. |
 | **Environment** | The surroundings an agent interacts with (e.g., a room, a road, a webpage). |
 | **Behavior** | An action an agent takes in response to information from its environment. |
@@ -102,7 +102,7 @@ This system uses stored knowledge and logical conditions to suggest possible sol
 
 ### B. Connectionist AI (Neural Networks)
 
-Connectionist AI is inspired by the structure of the human brain. Instead of relying only on explicit rules, it uses artificial neural networks to process information.
+Connectionist AI takes loose inspiration from the way networks of neurons are connected. Artificial neural networks are mathematical computing systems; they are not exact copies of the human brain. Instead of relying only on explicit rules, they use connected computational units to process information.
 
 These systems learn from data by adjusting the strength of connections (weights) between simulated neurons.
 
@@ -112,6 +112,10 @@ Connectionist AI is closely related to **Machine Learning (ML)** and **Deep Lear
 - **Deep Learning:** A specialised type of machine learning that uses neural networks with multiple layers to recognise more complex patterns.
 
 In simple terms, deep learning is part of machine learning, and machine learning is part of AI.
+
+![Relationship between artificial intelligence, machine learning, deep learning, and generative AI.](../assets/images/02-ai-ml-dl-genai-map%20%281%29.png)
+
+*Figure 1. A visual map of related AI terms. Generative AI is a capability or task category, not a fourth level in the AI–ML–DL hierarchy.*
 
 ```text
           Artificial Intelligence (AI)
@@ -244,7 +248,9 @@ However, AI systems used in schools should be evaluated carefully. Their results
 
 ## 8. Learner Activity: Identify the AI Approach
 
-Read each situation and identify the most suitable approach: **Symbolic**, **Connectionist**, or **Behavior-based**.
+**Instructions:** Work individually first. For each situation, choose one approach—**Symbolic**, **Connectionist**, or **Behavior-based**—then write one sentence explaining which clue in the description helped you decide. After answering all five, compare your reasoning with a partner.
+
+**Expected output:** Five classifications and five short explanations. Use the answer key in Section 9 only after completing your own responses.
 
 1. A computer troubleshooting expert system checks several reported problems and applies predefined logical rules to recommend a possible solution.
 2. An animal-image recognition system uses a deep learning model trained on thousands of photographs to identify different animals.

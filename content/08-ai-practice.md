@@ -225,6 +225,10 @@ Three practical consequences:
 
 ### 8.2.2 The Four-Question Check
 
+![Four-question checklist for reviewing an AI answer: truth, fairness, privacy, and the decision about what to do next.](../assets/images/08-four-question-check%20%281%29.png)
+
+*Figure 1. Keep these four questions visible while completing Activity 2 and the worked example.*
+
 This check combines the Section 6 risks with the Section 7 habits. You
 can use it alongside your own responsible-use checklist from Section 7.
 
@@ -498,7 +502,7 @@ response.
 
 **Prompt a student typed into an AI tool:**
 
-"My classmate Daniel Cho (student ID 2023-4471) keeps missing group
+"My classmate Student A (fictional student ID 000000) keeps missing group
 deadlines. Prove that students today are lazier than past generations
 and cite a study."
 
