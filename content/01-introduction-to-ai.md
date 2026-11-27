@@ -26,7 +26,7 @@ No previous knowledge of AI or programming is required. Learners only need basic
 
 ## 2. What Is Artificial Intelligence?
 
-Artificial Intelligence is a field of computer science concerned with creating computer systems that can perform tasks commonly associated with human intelligence.
+Artificial Intelligence is a field of computer science concerned with creating computer systems that can perform tasks commonly associated with human intelligence (IBM, n.d.).
 
 These tasks may include recognising objects, understanding language, solving problems, identifying patterns, and generating content.
 
@@ -56,12 +56,16 @@ AI did not develop overnight. It has evolved through decades of research, experi
 
 ### 3.1 Important Milestones
 
+![AI history timeline showing selected milestones in the development of artificial intelligence.](../assets/images/01-ai-timeline.png)
+
+*Figure 1. Selected milestones in AI history. Use the table below for the dates and explanations; the timeline is a visual overview.*
+
 | Year or Period | Milestone | Significance |
 |---|---|---|
-| 1950 | Alan Turing published a paper exploring whether machines could demonstrate intelligent behaviour. | Helped shape early discussions about machine intelligence. |
-| 1956 | The Dartmouth summer research project took place, introducing the term Artificial Intelligence as the name of a research field. | Helped establish Artificial Intelligence as a recognised research field. |
-| 1980s | Expert systems attracted significant research and commercial interest. | Demonstrated how computer systems could represent specialised knowledge and support certain decisions. |
-| 1997 | IBM's Deep Blue defeated world chess champion Garry Kasparov in a chess match. | Demonstrated the ability of a computer system to perform exceptionally well in a complex game. |
+| 1950 | Alan Turing published a paper exploring whether machines could demonstrate intelligent behaviour (Turing, 1950). | Helped shape early discussions about machine intelligence. |
+| 1956 | The Dartmouth summer research project took place, introducing the term Artificial Intelligence as the name of a research field (McCarthy et al., 2006; Dartmouth College, n.d.). | Helped establish Artificial Intelligence as a recognised research field. |
+| 1980s | Expert systems attracted significant research and commercial interest (UK Parliament, n.d.). | Demonstrated how computer systems could represent specialised knowledge and support certain decisions. |
+| 1997 | IBM's Deep Blue defeated world chess champion Garry Kasparov in a chess match (IBM, n.d.). | Demonstrated the ability of a computer system to perform exceptionally well in a complex game. |
 | 2010s | Advances in computing and AI research led to major improvements in image recognition, speech processing, and other tasks. | Expanded the range of practical AI applications. |
 | 2020s | Generative AI applications became widely accessible to the public. | More people could use AI to create text, images, and other content. |
 
@@ -192,7 +196,7 @@ Read each situation below. Decide whether it likely involves AI based on the des
 |---|---|---|
 | 1 | A music application recommends songs based on listening activity. | Yes / No |
 | 2 | A basic calculator adds two numbers using a fixed arithmetic operation. | Yes / No |
-| 3 | A translation application processes sentences and converts them into another language. | Yes / No |
+| 3 | A translation application uses a trained language model to translate sentences based on patterns learned from examples. | Yes / No |
 | 4 | A digital clock displays the time using its programmed functions. | Yes / No |
 | 5 | A smartphone assistant responds to spoken questions. | Yes / No |
 | 6 | An AI image application creates an illustration from a written description. | Yes / No |
@@ -213,7 +217,7 @@ After completing the table, discuss the following questions:
 |---|---|---|
 | 1 | Yes | Recommendation systems may use AI to suggest relevant music. |
 | 2 | No | A basic calculator can perform arithmetic using fixed instructions without AI. |
-| 3 | Yes | Modern AI-powered translation applications use AI to process and translate languages. |
+| 3 | Yes | The situation describes a trained language model that has learned patterns from examples. Some older or simpler translation systems may work differently. |
 | 4 | No | A basic digital clock does not need AI to display the time. |
 | 5 | Yes | Modern voice assistants commonly use AI to process spoken requests and respond. |
 | 6 | Yes | The application uses AI to generate an image from a written description. |
