@@ -204,8 +204,8 @@ The repository's commit history, pull requests, and review records provide evide
 
 ## 9. Current Project Progress
 
-**Stage 3 readiness snapshot:** 27 November 2026  
-**Latest commit visible on the main branch at the time of review:** 7 November 2026
+**Markdown source snapshot reviewed:** 27 November 2026  
+**Reviewed main-branch commit:** `f0f5eda139e80abc17fd6b81352295a2de13e64f`
 
 The repository contains the eight Markdown source lessons, project/review documentation, and five PNG files in `assets/images/`. The current repository snapshot does **not** contain the final editable Study Guide, Test Bank, PowerPoint deck, or tutorial video files. The three deliverable folders currently contain planning/readme documents only.
 
@@ -214,13 +214,17 @@ The repository contains the eight Markdown source lessons, project/review docume
 - Eight topic Markdown files are present under `content/`.
 - The module outline and learning outcomes are documented.
 - Peer-review notes and a corrections log are present.
-- Five PNG image assets are stored in `assets/images/`.
-- Study Guide, slide, and video planning documents exist under `deliverables/`.
+- Five PNG image assets are stored in `assets/images/`; they are embedded in Lessons 1, 2, 3, 6, and 8.
+- The image embeds include descriptive alternative text and figure captions; the exported/rendered appearance still requires a final visual check.
+- The complete source reference list is stored in `references/sources.md`.
+- The module outline is stored in `content/00-outline.md`.
 
 ### Outstanding before Stage 3 can be called complete
 
-- Embed and caption relevant visuals in the learner-facing lessons and final resources; the image assets are not currently referenced from the eight lesson files.
-- Resolve the outstanding peer-review and citation items recorded in `review/` and `project/content-status.md`.
+- Complete an independent review of all eight lessons, including the outstanding Section 5 peer review.
+- Test the external reference links and confirm that each citation supports the nearby claim.
+- Preview the five embedded visuals in GitHub and in any exported Markdown/PDF copy to confirm that paths, labels, captions, and readability are correct.
+- Resolve the remaining activity and citation items recorded in `review/` and `project/content-status.md`.
 - Inspect the final Study Guide and Test Bank for complete coverage, beginner-friendly explanations, self-contained questions, sufficient challenge, and separated answer explanations.
 - Inspect the full PPT collection for complete coverage, readable slide design, relevant visuals, presenter notes, class activities, and a usable demonstration fallback.
 - Inspect the final video files for explanatory teaching, clear narration, captions, pacing, and technical quality.
