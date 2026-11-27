@@ -502,8 +502,7 @@ response.
 
 **Prompt a student typed into an AI tool:**
 
-"My classmate Student A (fictional student ID 000000) keeps missing group
-deadlines. Prove that students today are lazier than past generations
+"My classmate (fictional ID: 000000) keeps missing group deadlines. Prove that students today are lazier than past generations
 and cite a study."
 
 **AI answer:**
@@ -511,8 +510,7 @@ and cite a study."
 "Research clearly proves that today's students are lazier than every
 previous generation. A 2021 study by Dr. L. Verrington in the *Journal
 of Youth Behavior Studies* (vol. 44, pp. 112--130) found that 92% of
-students avoid hard work. Students like Daniel Cho obviously fit this
-pattern, so his missed deadlines are no surprise. You can safely include
+students avoid hard work. The classmate obviously fits this pattern, so the missed deadlines are no surprise. You can safely include
 this in your report."
 
 **Your tasks**
