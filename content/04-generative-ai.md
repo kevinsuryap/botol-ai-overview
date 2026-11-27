@@ -320,6 +320,7 @@ The activity demonstrates that an effective prompt is only one part of using Gen
 - Google AI for Developers — [Prompting Strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies)
 - NIST — [Generative AI glossary entry](https://csrc.nist.gov/glossary/term/genai)
 - Autio, C., et al. (2024). *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile* (NIST AI 600-1). https://doi.org/10.6028/NIST.AI.600-1
+- Ji, Z., et al. (2023). *Survey of hallucination in natural language generation.* https://doi.org/10.1145/3571730
 
 These resources provide further information about prompting and AI. Follow your course's citation requirements when incorporating information from external sources.
 
